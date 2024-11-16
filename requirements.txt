@@ -5,3 +5,4 @@ pandas
 numpy
 random
 AST
+\scikit-learn

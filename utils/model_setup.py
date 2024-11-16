@@ -3,13 +3,15 @@ import os
 import google.generativeai as genai
 import time
 import ast
+import re
+
 
 GEMINI_15_FLASH = "gemini-1.5-flash"
 LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
 
 SLEEP_TIME = {}
 SLEEP_TIME[GEMINI_15_FLASH] = 4
-SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 1
+SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 4
 
 def choose_model(model_cod = -1):
 
@@ -50,29 +52,39 @@ def model_setup(model_name):
 
 
 def made_question(model_name, chat, prompt):
+    print("Testing if it is arriving here!!")
     prompt_divided = prompt.split("####")
     
     grades = ""
     reponse = ""
     sleep_time = SLEEP_TIME[model_name]
+    pattern = r"(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)"
 
-    for prompt in prompt_divided:
-        time.sleep(4) # API Limit - no more that 60 requests per minute
-        full_response, response = make_especific_model_question(model_name, chat, prompt)
-        grades = ast.literal_eval(response.rstrip())
-    """
     try:
         for prompt in prompt_divided:
-            time.sleep(4) # API Limit - no more that 60 requests per minute
-            response = make_especific_model_question(model_name, chat, prompt)
-        grades = ast.literal_eval(response.text.rstrip())
-    except:
-        print("There was an exception on made question!!!")
+            time.sleep(sleep_time) # API Limit - no more that 60 requests per minute
+            full_response, response = make_especific_model_question(model_name, chat, prompt)
+        
+        match = re.search(pattern, response)
+        while not match:
+            time.sleep(sleep_time) 
+            print(response)
+            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            match = re.search(pattern, response)
+        
+        grades = str(list(map(int, match.groups())))
+    except Exception as e:
+        print(f"There was an exception on made question: {e}")
         for prompt in prompt_divided:
-            time.sleep(60)
-            response = make_especific_model_question(model_name, chat, prompt)
-        grades = ast.literal_eval(response.text.rstrip())
-    """
+            time.sleep(120)
+            full_response, response = make_especific_model_question(model_name, chat, prompt)
+
+        match = re.search(pattern, response)
+        while not match:
+            print(response)
+            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            match = re.search(pattern, response)
+        grades = str(list(map(int, match.groups())))
     
     return grades, full_response
 
@@ -92,7 +104,7 @@ def make_especific_model_question(model_name, chat, prompt):
         )
         
         full_response_obj = completion.choices[0].message
-        reponse = full_response_obj.content
+        response = full_response_obj.content
         full_response = str(full_response_obj)
 
     return full_response, response

@@ -70,7 +70,7 @@ def getDataset(path_to, dataset_name):
     case "aes_enem_dataset":
       essays_data = []
 
-      filepath = path_to + dataset_name + '.csv'
+      filepath = path_to + "Datasets/propor2024/test.csv"
       with open(filepath, mode ='r') as file:
             csvFile = csv.DictReader(file)
             for lines in csvFile:

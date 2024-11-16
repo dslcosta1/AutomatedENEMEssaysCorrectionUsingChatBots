@@ -1,0 +1,4 @@
+Correct the following writing, following the ENEM assessment method, only deliver the quantitative grade between 0 and 200 for each competency and the final grade in the following format: [x, y, z, w, t, x+y+z+w+t]. I don't want text in the answer, just the numerical grades for each competency and the total
+
+Theme: <TEMA>
+Writing: <REDAÇÃO>
