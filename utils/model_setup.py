@@ -11,7 +11,7 @@ LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
 
 SLEEP_TIME = {}
 SLEEP_TIME[GEMINI_15_FLASH] = 4
-SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 4
+SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 2
 
 def choose_model(model_cod = -1):
 
@@ -36,9 +36,9 @@ def choose_model(model_cod = -1):
     print("Choosen Model: " + model_name)
     return model_name, model_cod
 
-def model_setup(model_name):
+def model_setup(model_name, key_id = 1):
     if model_name == GEMINI_15_FLASH:
-        GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
+        GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY_' + str(key_id)]
         
         genai.configure(api_key=GOOGLE_API_KEY)
         
@@ -46,13 +46,54 @@ def model_setup(model_name):
         print(model)
         chat = model.start_chat(enable_automatic_function_calling=True)
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
-        chat = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+        chat = Groq(api_key=os.environ.get("GROQ_API_KEY_" + str(key_id)))
     
     return chat
 
+def run_model(essays_dataset, exp, ini, end, model_name, chat):
+  essays_outputs = []
+
+  for i in range(ini, end):
+    if i == 34 and dataset_name == ("essaysGrade1000"):
+      print("Skipping essay number: " + str(i))
+      continue
+
+    if (i == 101 or i == 131 or i == 143) and dataset_name == ("extended2024"):
+      print("Skipping essay number: " + str(i))
+      continue
+
+    if (i == 97 or i == 98 or i == 112) and dataset_name == ("propor2024"):
+      print("Skipping essay number: " + str(i))
+      continue
+
+    essay_data = essays_dataset[i]
+    essay = essay_data["essay_text"]
+    prompt = essay_data["id_prompt"].replace("-", " ")
+    print("It will evaluated essay with number:" + str(i))
+    prompt = exp.build_prompt(essay, prompt)
+    grades, response = made_question(model_name, chat, prompt)
+
+    print("Evaluated essay with number: " + str(i))
+
+    model_key = model_name.split("-")[0]
+    grades_key = model_key + "_grades"
+    output_key = model_key + "_output"
+
+    output = {
+      "id": essay_data["id"],
+      "essay_text": essay_data["essay_text"],
+      "id_prompt": essay_data["id_prompt"],
+      "grades": essay_data["grades"],
+      grades_key: grades,
+      output_key: response,
+    }
+
+    essays_outputs.append(output)
+
+  return essays_outputs
+
 
 def made_question(model_name, chat, prompt):
-    print("Testing if it is arriving here!!")
     prompt_divided = prompt.split("####")
     
     grades = ""
@@ -67,6 +108,7 @@ def made_question(model_name, chat, prompt):
         
         match = re.search(pattern, response)
         while not match:
+            prompt = prompt_divided[-1]
             time.sleep(sleep_time) 
             print(response)
             full_response, response = make_especific_model_question(model_name, chat, prompt)

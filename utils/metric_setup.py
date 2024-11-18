@@ -1,4 +1,5 @@
 import re
+import numpy as np
 
 QWK = "QWK"
 RMSE = "RMSE"
@@ -26,24 +27,27 @@ def choose_metric():
     
     return metric_name
 
-def arrumar_nota(nota):
-    possiveis_notas = [0, 40, 80, 120, 160, 200]
+def fix_grade(grade):
+    possible_grades = [0, 40, 80, 120, 160, 200]
     mais_proxima = -1
     dif = 1000
-    for n in possiveis_notas:
-        if abs(nota - n) < dif:
-            mais_proxima = n
-            dif = abs(nota - n)
+    for possible_grade in possible_grades:
+        if abs(grade - possible_grade) < dif:
+            mais_proxima = possible_grade
+            dif = abs(grade - possible_grade)
     return mais_proxima
 
-def pegar_nota(lista_notas, indice, arrumar_nota=False):
-    nova_nota = []
-    for n in lista_notas:
-        if arrumar_nota:
-            nova_nota.append(arrumar_nota(n[indice]))
+def pegar_nota(grades_list, ind, has_fix_grade=False):
+    new_grade = []
+    for grade in grades_list:
+        if not (isinstance(grade, list) or isinstance(grade, tuple)):
+            print("Skiping essay with grade: " + str(grade))  
         else:
-            nova_nota.append(n[indice])
-    return nova_nota
+            if has_fix_grade:
+                new_grade.append(fix_grade(grade[ind]))
+            else:
+                new_grade.append(grade[ind])
+    return new_grade
 
 def get_grades(dataset, model_name):
     model_grade_key = model_name.split("-")[0] + "_grades"
