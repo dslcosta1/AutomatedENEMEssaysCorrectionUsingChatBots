@@ -1,0 +1,1886 @@
+id,essay_text,id_prompt,grades,gemini_grades,gemini_output
+7.html,"O Ministério da Cultura não está nem um pouco preocupado com a preservação do patrimônio público, o incêndio do Museu Histórico Nacional é a grande confirmação deste fato.
+Entre as 350 mil peças do vasto acervo, restou muito pouco do conhecimento científico existente, vai que entre os manuscritos tivesse uma árvore genealógica explicando o desenvolvimento psicomotor da criança, e que ali alguns professores de escolas públicas que estivessem preocupados com as questões sociais do país, levassem seus alunos e fizessem estes compreenderem a situação educacional do Brasil?
+Juntos, eles podem compreender que Componentes curriculares como a Educação física e a Artes e Educação são essenciais para a formação das crianças na Educação Infantil (0 a 5 anos e 11 meses), permitindo que os discentes tenham acesso à alfabetização.
+Descobrir que estes componentes curriculares trabalham as habilidades motoras básicas manipulativas (apanhar, lançar...) e locomotoras (correr, saltar...) que são fundamentais para a estruturação do corpo, pois a criança precisa ter a lateralidade (noção de lado direito e esquerdo, haja vista que, tanto a leitura, como a escrita, quanto o cálculo são realizados da esquerda para direita) estruturada, saber fazer a reversibilidade, ou seja, se colocar no ponto de vista do outro, no caso o caderno, para assim fazer a escrita, a leitura e o cálculo.
+Contudo isso, os professores e alunos da rede pública devem, de forma organizada, pedir a inclusão destes componentes curriculares na teoria e na prática, permitindo a emancipação de uma classe social que atualmente está sendo vítima de uma ordem social vigente, deixando estes como seres puramente biológicos e não sociais e culturais.",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,[0 0 0 0 0 0],"[120, 120, 100, 100, 80, 520]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 120, 100, 100, 80, 520] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 122351,
+        ""candidates_token_count"": 29,
+        ""total_token_count"": 122380
+      }
+    }),
+)"
+1.html,"Na noite de domingo dia dois de setembro de 2018 por volta das 19:30 da noite, houve um incidente com o Museu nacional do Rio de Janeiro. Dentre tantos motivos relevantes, temos: destruição de fósseis antigos e assim como uma perca para o Brasil.
+O Museu foi fundado em seis de junho de 1818, nesse ano completou duzentos anos da sua existência. Ninguém sabe como começou o incêndio, mas muitos acreditam que seja por conta das afiações assim como um morador local diz te visto um balão caindo no museu que poderia te causado o
+devido incêndio. Foram perdidas muitas estruturas antigas e também a mais importante as fosseis de luzia.
+O que aconteceu com o museu deixou vários brasileiros triste, porém foi uma perda de não só de objetos e sim de lembranças de pessoas importantes que conviveu la, ou seja, a familia real e que também foi contestado a independência.
+O Michel Temer comentou que foi uma perda incalculável para o país e que foi perdido duzentos anos de pesquisas, assim como o MEC ofereceu ajuda para o que precisar para recuperar o patrimônio histórico do Brasil. ",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,[0 0 0 0 0 0],"[120, 100, 100, 100, 80, 500]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 100, 100, 100, 80, 500] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 122746,
+        ""candidates_token_count"": 29,
+        ""total_token_count"": 122775
+      }
+    }),
+)"
+9.html,"Quando falamos em cultura cultura, logo pensamos em museus ou teatros, é o que mantém nossa história viva, que fazem lembrar-se da extrema importância de seus acontecimentos pelo país, e país e, quando algo destrói esses monumentos, parte do país se decepciona, por lembrar da alegria que trazia as às pessoas saberem que nossa história estava viva de certo modo. E o motivo é o governo, por investir em outros projetos ao invés de focar na cultura do país.
+A história do país deveria ser uma das coisas com a qual o governo mais deveria se importar, pelo motivo de sempre deixar as pessoas mais informadas e lembradas, porém isso não existe, eles preferem investir em estádios ao invés de manter histórias de décadas viva. Como o museu nacional Museu Nacional, com seus milhões de visitantes anualmente, e nem isso foi um motivo para o governo dar a atenção necessária, é como se tudo isso fosse uma brincadeira para eles, e acabam deixando de lado algo revolucionário.
+Agora com o inicio início das reformas do museu, não só do nacional como outros destruídos também por incêndios, o governo deveria pensar em investir nos patrimônios culturais, como os próprios viram como isso abalou os brasileiros, e os mesmos pedem que eles sejam cuidados e preservados, e isso só pode acontecer com a colaboração, principalmente daqueles que estão acima de nós, começando pela parte da valorização e terminando com a ajuda que ela precisa.",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,[0 0 0 0 0 0],"[140, 100, 100, 100, 100, 540]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 100, 100, 100, 100, 540] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 123191,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 123221
+      }
+    }),
+)"
+7.html,"É de conhecimento geral que, o Brasil vêm sofrendo uma grave crise na sua economia e os governantes decidiram aumentar os valores de praticamente tudo o que tem no país.
+Por conta disso os caminhoneiros no fim de maio resolveram fazer uma paralisação bloqueando qualquer passagem de 24 estados e no Distrito Federal, pedindo pela a diminuição do valor da gasolina, também para abaixarem o custo do pedágio entre um lugar e outro, e diferentes tipos de pedidos.
+O governo, nos primeiros dias, tentou rebater e disseram que iriam prender e multar os protestantes, porém não funcionou, eles não desbloquearam nenhuma das rodovias. Com isso causou a falta de diesel, de alimentos, queda nas indústrias e aumento da inflação.
+Em consequência, o presidente Michel Temer resolveu fazer um acordo para que esse bloqueio tivesse fim, então marcou uma reunião com alguns representantes dessa greve e assinou um contrato onde dizia que iam diminuir os preços do diesel, assim como das outras coisas que foram pedidas, tendo em vista a isso, eles saíram das passagens e permitiram a entrada dos transportes nas ruas.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,[0 0 0 0 0 0],"[140, 140, 100, 100, 100, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 140, 100, 100, 100, 580] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 123585,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 123615
+      }
+    }),
+)"
+5.html,"É de conhecimento geral que a notícia se espalha pelo Brasil inteiro, pois a manifestação está sendo falada em todo o território nacional. Com base nos conhecimentos os caminhoneiros estão reivindicando seus direitos.
+Em consequência disso, vê-se a todo instante reportagens que vem a julgar a manifestação, no entanto, dizem que os caminhoneiros estao causando desordem entre a população, nota-se qeos grevistas não estão apenas manifestando para si, e sim àqueles que não tiveram coragem de sair nas ruas a declarar sua indignação. Em todos os canais há notas de esclarecimento que devido a greve, está faltando remédios em hospitais, doadores, etc. Isso é praticamente um meio de não culpar os governantes e querem pôr culpa nos caminhoneiros.
+Em virtudes dos fatos mencionados, conclui-se que há uma esperança de vida melhor assim que a greve acabar.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,[0 0 0 0 0 0],"[100, 100, 100, 100, 80, 480]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 100, 100, 100, 80, 480] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 123924,
+        ""candidates_token_count"": 29,
+        ""total_token_count"": 123953
+      }
+    }),
+)"
+9.html,"Ruas vazias, carência de produtos, filas nos postos de combustíveis, temor e incerteza. O roteiro de futuros distópicos foi encenado, recentemente, no Brasil, durante a paralisação dos caminhoneiros. A greve expôs o resultado de sucessivas políticas públicas que priorizaram o transporte rodoviário, tornando a população refém das estradas e do diesel. Afinal, a greve foi uma surpresa ou uma crise anunciada?
+O capitalismo de compadrio, praticado não apenas no Brasil, corresponde à aliança entre o Poder Público e os interesses privados. O lobby das concessionárias automotivas atuou – e atua – fortemente em Brasília, influenciando (ou mandando) no planejamento dos governos. Em nome do “desenvolvimento”, o país escolheu o sistema rodoviário em detrimento do transporte ferroviário e hidroviário. Sob o asfalto, mesmo o esburacado, movimenta-se o Brasil.
+Esse movimento tem um expoente: o caminhoneiro. Ele sente na pele (e no bolso) os impactos dos impostos abusivos, seja nos pedágios, seja nos postos de combustíveis. Como qualquer classe trabalhadora, a carga tributária onera a apertada renda mensal, fazendo com que a base da pirâmide social assista, do acostamento, a muitos enriquecerem com a exploração alheia. Sem dúvida, a greve surgiu como um grito de basta, transbordando toda a frustração acumulada de anos de descaso e incompetência.
+Tal grito veio tarde, mas assustou os incautos. Assustou quem não acreditava que uma classe trabalhadora pudesse exercer seu direito à greve; assustou quem imaginava um povo omisso e resignado. Os grevistas perceberam que tem poder de parar uma nação. Ora, todos os cidadãos podem e devem parar uma nação que trafega rumo ao abismo. Resta a dúvida: qual caminho será trilhado? Quem escolherá a nova rota?
+Certamente, apenas a população consciente poderá responder tais questões. Até então, a rota era guiada por quem sempre se manteve no poder, sucessivos políticos e empresários perpetuadores um Brasil asfaltado e atrasado. A greve dos caminhoneiros deve ser um alerta aos cidadãos de que o poder da mudança reside em suas mãos. Paralisemos o país antes que ele capote.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,[ 200  200  200  200  200 1000],"[160, 160, 140, 160, 160, 780]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 160, 140, 160, 160, 780] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""LOW""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 124581,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 124611
+      }
+    }),
+)"
+7.html,"É indubitável que à polêmica acerca de imigrantes no Brasil vêm crescendo majoritariamente, em sua maioria imigram por diversas causas, em consequência de crises políticas, governos ditatoriais, catástrofes naturais, condições humanas precárias em seus países de origem, mas, acima de tudo, buscando melhores condições de vida e trabalho.
+Como supracitados anteriormente, eles buscam melhores condições de vida, sendo assim, torna-se necessário desvencilhar-se da visão preconceituosa que tanto nos assola, uma vez que, os brasileiros ainda na atualidade são contra a entrada de imigrantes por um medo descomunal do roubo acerca de seus ofícios, é de grande relevância lembrar que nosso país foi constituído de emigrantes portugueses, holandeses, entre outros, causando grande miscigenação e diversos valores em todo o Brasil. Por fim, é preciso que o governo hodierno adote políticas positivas acerca dessa conjuntura, auxiliando esses povos e garantindo a segurança dos mesmos. ",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 80  40  40   0   0 160],"[120, 100, 120, 100, 100, 540]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 100, 120, 100, 100, 540] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 124934,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 124964
+      }
+    }),
+)"
+3.html,"É necessário observar o atual cenário brasileiro: população desgastada com altos impostos, com a falta de segurança e a beira de uma guerra civil. Em meio a uma crise, outros assuntos como imigração chega no meio de um rol de questões também urgentes de serem solucionadas e que exigem um posicionamento.
+Em teoria, quando as políticas públicas funcionam, elas trazem certa ordem. No meio de ordem e princípios bem definidos tratar de outros assuntos fica mais fácil. Quando cada um sabe seu papel tudo fica bem mais simples. É como uma visita, se uma família não tem sua dinâmica de comportamento e respeito os recepcionados poderão se comportar da forma que lhe convierem.
+Temos um exemplo para observar na França, conhecida mundialmente por seus ideais de liberdade mas que encontra-se atualmente em total descontrole de sua população, pois, devido a entrada de muitos refugiados, crises de desemprego e falta de segurança assolam seus habitantes, suas políticas não souberam apresentar seus princípios a estes. Não é só deixar entrar ou simplesmente ignorar, é vigiar. É incentivar um crescimento de acordo com as premissas internas.
+É possível recepcionar imigrantes e apresentá-los a uma nova identidade exigindo respeito a esta. Esperar de governantes medidas novas que gerem resultado talvez esteja um pouco fora da realidade, porém, exigir que esses simplesmente sigam as premissas básicas já estabelecidas, como o direito ao trabalho, transporte, saúde e educação será possível recepcionar imigrantes de uma forma a beneficiar a todos ao mesmo tempo em que reafirmamos nossa identidade.
+Crises humanitárias sempre irão existir, mas para que isso não ocorra de forma tão degradante e aumente tensões que já persistem há muito, é necessário firmar políticas públicas já consolidadas. Nada fica tão caótico num meio mais ordenado e planejado. Para uma boa recepção é necessário uma boa ordenação.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 80  80  80 120  80 440],"[120, 120, 100, 100, 100, 540]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 120, 100, 100, 100, 540] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 125471,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 125501
+      }
+    }),
+)"
+18.html,"O assunto de imigração ilegal é bastante delicado afinal não se pode ver apenas um lado, obviamente os governantes pensam sempre no melhor para o futuro do seu próprio país por isso muitos governantes optam por não facilitar esse processo de imigração.
+Entretanto não podemos não esquecer das pessoas afinal elas não estão ali em condições precárias querendo fugir do seu país de origem apenas por não gostar, muitas daquelas pessoas estão ali tentando sobrevier algo que talvez para elas seja impossível fazer no seu próprio país, ajudar ou facilitar a entrada dessas pessoas pode ser uma boa iniciativa que consequentemente pode gerar lucro para o país e ajudar em diversos outros aspectos então dificultar a vinda dessas pessoas pode ser considerado uma falta de consideração afinal como foi dito no texto acima “o Brasil foi formado por imigrantes”, se eles ajudaram o Brasil a evoluir por que não ajudá-los agora? Essas pessoas apenas precisam de ajuda, elas apenas querem se reestabelecer, elas querem ter uma chance de poder viver de verdade uma chance de sobreviver e negar isso a elas é desumano.
+Sabemos que pode ser um perigo para os nativos locais e é isso que os governantes pensam mas não podemos deixá-los esquecer de que eles podem ocasionar coisas boas porém acima de tudo que no futuro eles podem nos ocasionar, eles são seres vivos, eles são gente como a gente e se o seu próprio país o esqueceu e o fez sofrer não podemos abandoná-los também.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120 120  80 160  40 520],"[140, 100, 100, 100, 120, 560]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 100, 100, 100, 120, 560] \n\n\n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 125916,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 125946
+      }
+    }),
+)"
+4.html,"A população do nosso país foi formada, em grande parte, por imigrantes portugueses, africanos (foram trazidos à força em navios negreiros), italianos, japoneses entre outros. Cada um fez parte de um período histórico dessa nação, com contribuições para a estrutura econômica, política e agrícola. Na contemporaneidade o Brasil continua a receber essas pessoas que vem de guerras, crises econômicas, perseguições religiosas e políticas e tantos outros motivos.
+Nos últimos anos, migraram os haitianos, bolivianos, coreanos, angolanos, sírios e recentemente em 2018, os venezuelanos, que estão fugindo da crise em sua pátria.
+A Declaração dos Direitos Humanos garante o direito à vida, à liberdade, ao trabalho e a educação, sem discriminação, a todo ser humano. A posição do Brasil deve ser a mesma do século XIX e XX, quando recebeu diversos imigrantes e agora na contemporaneidade, a de continuar aceitando a migração dessas pessoas, pois estará cumprindo os direitos humanos, que são inerente a todos independente da nacionalidade, idioma, etnia ou qualquer outra condição.
+Eles migram carregados de necessidades básicas e elas devem ser atendidas com prioridade, como a documentação, moradia, saúde, educação, higiene, alimentação e renda. Mesmo o nosso país sendo subdesenvolvido, não pode deixar de garantir esse direito à vida aos imigrantes. 
+Em suma, há muitas ONGS e instituições religiosas que ajudam essas pessoas. O governo pode subsidiar esses lugares com o recrutamento de voluntários da área da saúde, educação (com foco no aprendizado da língua portuguesa) e orientar sobre a procura por trabalho e abrigos para os imigrantes.
+É preciso, também, ter um olhar para os filhos deles, que estão em período escolar e orientar as escolas a desenvolverem projetos com os alunos sobre a xenofobia, o bullying e a discriminação; procurar trazer a cultura dessas crianças e adolescentes ao conhecimento dos discentes brasileiros, para que se desenvolva empatia e respeito à diversidade cultural.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120 120  80 120 160 600],"[140, 160, 120, 140, 140, 700]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 160, 120, 140, 140, 700] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 126492,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 126522
+      }
+    }),
+)"
+5.html,"Um dos temas mais debatidos atualmente, a migração é um fenômeno que vem crescendo à medida que povos tentam fugir de crises humanitárias como as que assolam a Síria e a Venezuela. Se, por um lado, há aqueles que defendem o acolhimento das pessoas que tentam obter residência em outros países; existem grupos cada vez maiores de indivíduos contrários a políticas mais brandas de imigração, devido à atual fragilidade da econômica mundial.
+A movimentação de povos em todo o mundo é um processo inerente à raça humana e é responsável por mudanças que contribuíram para a existência do homem no planeta Terra. Porém, o que antes era usado como meio de busca por locais com melhores condições naturais, como regiões com água potável, passou, após o início dos conflitos entre povos, a servir como fuga das mazelas geradas por conflitos. Um exemplo disso é a vinda, para o Brasil, de europeus, que fugiam das consequências da segunda guerra mundial, responsável pela destruição de grande parte do velho continente. 
+Conquanto a crise migratória na Europa recebeu, nos últimos anos, um destaque nas discussões entre as autoridades mundiais, o que mais tem preocupado os brasileiros é o fluxo de venezuelanos que vem imigrando para o Brasil. Isso porque o maior país da America do Sul, historicamente um lugar que sempre recebeu bem imigrantes, uma das características que contribuíram para que o país se tornasse uma das maiores potências mundiais, não está preparado para receber muitas pessoas. Um exemplo disso é a precariedade dos serviços públicos, como na área da saúde, que já prejudica milhares de brasileiros e poderia piorar com um aumento populacional repentino, como aconteceu em Roraima, onde foi declarado estado de calamidade devido à grande concentração de estrangeiros.
+Dessa forma, fica claro que o governo brasileiro deve assumir uma posição de cautela em relação à entrada de imigrantes no país, sejam vindos de países vizinhos ou de outras regiões como o norte do continente Africano. Uma vez que o Brasil enfrenta uma crise sem precedentes, que reduziu a arrecadação dos governos e, consequentemente, prejudicou os serviços públicos, permitir a entrada de imigrantes pode significar colocar essas pessoas sob o risco de enfrentarem condições desumanas de vida aqui também.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[160 160 120 160 120 720],"[160, 160, 140, 140, 140, 740]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 160, 140, 140, 140, 740] \n\n\n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 127118,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 127148
+      }
+    }),
+)"
+17.html,"O Brasil sempre recebeu os imigrantes de “braços abertos”, mas estamos diante um governo conservador e aliado de países desenvolvido assim como os Estados Unidos.
+Com certeza isso fará com que o Brasil retroceda em relação a aceitação de pessoas de outros países.
+A imigração é um direito de todo cidadão que queira uma vida segura para si e sua família.
+Mas infelizmente diante o atual cenário em que o Brasil vive sejam elas no campo político, econômico e social sem dúvida isso afetará de uma maneira negativa os imigrantes também.
+O Brasil precisa investir em políticas públicas para que traga benefícios aos brasileiros e aos que aqui chegaram, não deve restringir a entrada de pessoas que almejam uma vida mais segura. O Brasil já vem com grandes crises de violências, desemprego e isso ocorre devido a corrupção e não a imigração, organizem o Brasil para que nele todos possam se deleitar de forma justa e tranquila.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120  80  80  80 120 480],"[120, 120, 100, 100, 100, 540]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 120, 100, 100, 100, 540] \n\n\n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 127454,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 127484
+      }
+    }),
+)"
+2.html,"Nos últimos anos a mídia mostrou uma mudança no cenário mundial alarmante, milhares de pessoas pessoas, em todas as partes do mundo fugindo dos seus países para procurar uma vida um pouco melhor e mais segura em outros países.
+Essa situação sempre ocorreu, sempre ouvimos falar aqui na América dos imigrantes que tentam entrar nos Estados Unidos pela fronteira com o México, mais aqui tomamos conhecimento da onda de imigração do Oriente principalmente para países da Europa, pelo desespero com que essas pessoas tentam buscar uma oportunidade se arriscando, sempre se é noticiado os mortos nessas tentativas, inclusive não se pode esquecer da foto daquela criança morta na praia que se tornou um símbolo triste dessa situação.
+Esse novo panorama também tem afetado a América, o Brasil também tem sido alvo de um fluxo grande de imigrantes entrando ilegalmente, alguns países da América tem sofrido com grandes crises, guerras civis, catástrofes naturas, com isso a imigração se tornou um problema com difícil solução, temos por exemplo o caso dos haitianos que entraram no país pelo Acre de forma ilegal, deixando o Estado numa situação caótica, pois não tinha estrutura para receber esses imigrantes. Também temos o casos dos venezuelanos que estão vindo para o Brasil fugindo da crises no seu país.
+O Brasil e conhecido como pacifico, não temos guerras civis, pelo menos não declaradas abertamente, somos um país hospitaleiro, mais o fato e que não temos estrutura para receber tantas pessoas, temos graves problemas internos: corrupção, violência, saúde precária, educação deficiente, falta de empregos, serviços básicos que estão em colapso e que não conseguem atender nem nossa população, quanto mais ajudar e atender as necessidades dessas pessoas.
+O Brasil tem que colaborar de alguma forma para ajudar essas pessoas, diplomaticamente, ou até mesmo financeiramente, apesar da crise na nossa economia, mais não adianta bancar o generoso se não consegue resolver primeiro os problemas internos mais graves.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 80 120  80  80  40 400],"[120, 140, 100, 100, 120, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 140, 100, 100, 120, 580] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 128001,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 128031
+      }
+    }),
+)"
+6.html,"A onda de imigrações vem crescendo constantemente a cada ano, e o Brasil entra na lista de países preferidos. Segundo dados do Comitê Nacional Para Refugiados (Conare), em 2017, o país recebeu mais de 33.866 pedidos de refúgios de imigrantes. Os motivos que levam essas pessoas a saírem do país de origem são as perseguições motivadas por raça, nacionalidade, religião e opiniões políticas. Porém, para a Acnur, agência da ONU para refugiados, a falta de acesso aos serviços básicos como saúde, educação, moradia e distribuição de renda também entram no rol de motivos que levam indivíduos a migrarem.
+Um pacto global sobre imigração foi assinado por 152 países na ONU para acolher essas pessoas que fogem do país de origem em busca de emprego, moradia, saúde, educação e segurança. O Brasil vem sendo procurado, devido ao encurtamento de abertura dos Estados Unidos e países europeus, que ficaram de fora desse pacto. Também, leva-se em consideração a facilidade que o país dá aos pedidos de refúgio. Segundo Bernardo Laferté, coordenador-geral do Conare, em entrevista à BBC, disse que o pedido de refúgio no Brasil não exige taxas nem documentos.
+Apesar da grande onda de imigração no Brasil, a realidade que essas pessoas encontram por aqui é de vulnerabilidade, desemprego e falta de moradia. Em 2016, a contratação de imigrantes em empregos formais caiu 13%, segundo dados do Observatório das Migrações Internacionais (ObMigra), com apoio do Conselho Nacional de Imigrações (Cenig ) e do Ministério do Trabalho. A crise que o país vem passando desde 2014, afetou não só os brasileiros como também os estrangeiros. No entanto, a lei de imigração, aprovada em maio de 2017, que garante aos imigrantes legais, refugiados e solicitantes de refúgio no Brasil os mesmos direitos que os brasileiros natos, inclusive de abrirem o próprio negócio, contribuiu para que os estrangeiros abrissem o seu próprio negócio para fugir dos problemas ocasionados pela crise econômica.
+O Brasil deve formalizar e garantir os direitos dessas pessoas que vêm de fora, porque a imigração tem pontos positivos, pois podem aquecer a economia e enriquecer a diversidade cultural dos países buscados. Portanto, garantir emprego, documentação e dar cidadania a essas pessoas são de suma importância para que eles elas não se sintam violados e excluídos quando chegam em um local que não pertence as suas tradições. A documentação garantida, por exemplo, protege o imigrante de trabalhos irregulares e de exploração.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[160 160 160 120 120 720],"[160, 140, 140, 140, 140, 720]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 140, 140, 140, 140, 720] \n\n\n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 128724,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 128754
+      }
+    }),
+)"
+12.html,"Esse Bolsonaro realmente vai ser um perigo para o brasil primeiro que ele vai trazer terroristas para brasil porque com essa união com israel os terroristas não vão gostar e vão querer atacar o Brasil.
+O Brasil sempre fez a política da boa vizinhança e era sempre querido pelos outros países, mas com esse radical no poder o Exercito que ele tanto idolatra e adora vai ter que proteger muito o Brasil desses inimigos terroristas porque eles não vão aceitar essa ligação entre Brasil e Israel.
+Segundo que se ele continuar com essa ligação com israel os Árabes que são grandes importadores do Brasil eles não vão mais comprar nada do brasil e eles são grandes importadores do Brasil e isso vai gerar muito desemprego.
+Depois essa conversa de liberar arma para o cidadão comum quem tinha que nós proteger era o Exercito e a policia mas pelo que estou vendo quem vai ter que se proteger é o próprio cidadão Brasileiro por que o exercito que ele tanto adora adora, não pode fazer isso e a policia não vai poder resolver isso sozinha, como estamos vendo no brasil 
+Isso sem falar no rombo que o PT e o PMDB deixaram o brasil, quem vocês acham que Bolsonaro e Paulo guedes vão botar para pagar essa conta claro que somos nós.
+Muito obrigada.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[0 0 0 0 0 0],"[80, 80, 80, 80, 60, 400]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[80, 80, 80, 80, 60, 400] \n\n\n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 129128,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 129153
+      }
+    }),
+)"
+0.html,"A imigração, que sempre fez parte da história e da formação dos povos, tem se tornado um problema de difícil solução. Tanto os países desenvolvidos, como os países em desenvolvimento, como o Brasil, têm encontrado diversos obstáculos na tentativa de normalizar os fluxos migratórios, cada vez mais frequentes e preocupantes.
+Muitos são os motivos que levam milhões de pessoas ao redor do mundo a deixar seu país de origem, dentre os quais se destacam as crises econômicas, sociais e políticas, a exemplo da Venezuela, cujo governo nada tem feito para mudar a situação precária em que se encontra o país, tornando o crescente êxodo de seus habitantes insustentável para os países vizinhos.
+Em que pese à necessidade de acolher de forma digna e humanitária os imigrantes que buscam melhores condições de vida, o Brasil tem revelado nos últimos meses insuficiência de infraestrutura e de recursos financeiros para garantir segurança e qualidade de vida tanto para os imigrantes, como para os brasileiros que passaram a conviver com essa realidade.
+O Brasil deve assegurar a entrada pacífica e digna tantos dos imigrantes venezuelanos, como de quaisquer outros imigrantes que necessitem garantir a sua própria subsistência e de sua família, como forma de respeito e proteção aos direitos humanos. A fim de efetivar esses direitos, no entanto, o país tem pela frente o desafio de distribuir corretamente esses estrangeiros no território nacional e dar a eles a assistência social necessária, a fim de evitar o aumento da desigualdade social e a xenofobia.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[200 160 160 200 160 880],"[160, 140, 160, 140, 140, 740]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 140, 160, 140, 140, 740] \n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 129579,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 129609
+      }
+    }),
+)"
+1.html,"No Brasil, grande parte da população emigra procurando melhorar de vida em países mais desenvolvidos. Dessa forma, sair do pacto para imigração e diminuir as relações com o Mercosul representa mais prejuízos do que vantagens. Uma vez que o Brasil não é o país que mais recebe imigrantes, essa política contra o pacto pode prejudicar a vida de brasileiros no exterior.
+Primeiramente, com a atual crise política e econômica na Venezuela, muitos cidadãos desse país estão procurando refúgio em países vizinhos. Sendo a Bolívia a que mais recebe essas pessoas sendo seguida pelo Brasil. A entrada desses imigrantes para o no Brasil deveria ser incentivada uma vez que o Brasil tem a capacidade de recebê-los e de aproveitar essa mão de obra para o desenvolvimento econômico nacional.
+Em contrapartida, a saída do pacto global para a imigração pode prejudicar a relação do Brasil com outros países que recebem emigrantes brasileiros. Pois não sendo uma nação signatária do pacto pode sofrer com políticas mais duras como afirma o sociólogo Thomas Marshall sobre a conquista de direitos dos cidadãos na atual fase da globalização.
+Portanto, o Brasil só tem a perder dificultando a imigração e incentivando a xenofobia. Logo para reverter essa situação o país não deve sair do pacto, flexibilizar a entrada de imigrantes e não se comparar com países desenvolvidos como o Reino Unido e a política do Brexit. Só assim poderemos crescer como nação, compartilhando os direitos sociais para todos.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[160 200 160 200 160 880],"[140, 120, 120, 100, 100, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 120, 100, 100, 580] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 130029,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 130059
+      }
+    }),
+)"
+13.html,"Sabe-se que os imigrantes venezuelanos estão migrando do seu país de origem devido a crise econômica.
+Como citou Maquiavel “Não há nada mais difícil ou perigoso do que tomar a frente na introdução de uma mudança”, é indubitável que o governo tem que pensar em diversas maneiras de acolher ou de rejeitar os imigrantes por quê pode gerar desemprego, violência, falta de saneamento básico, dentre outros fatores, devido a grande quantidade de pessoas que imigram.
+Porém, o Governo deve tomar medidas cabíveis, permitindo imigração de 25% dos venezuelanos. Assim, o Governo, junto com as empresas privadas, pode gerar novos empregos e com isso diminuindo a violência. ",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 80  40  80  80  40 320],"[80, 60, 60, 60, 60, 320]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[80, 60, 60, 60, 60, 320] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 130322,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 130347
+      }
+    }),
+)"
+16.html,"É rotineira e comovente as cenas de imigrantes nas ruas do Brasil, sentados em frete de estabelecimentos comerciais com seus filhos menores pedindo esmola ou um prato de comida. No passado histórico, o Brasil teve alguns de seus Estados e Municípios colonizados e povoados por imigrantes, os quais promoveram na época benefícios para o nosso País : econômicos, territoriais e culturais. Seria o momento de o Brasil valorizar e solidarizar-se com os imigrantes?
+Atualmente a imigração tem sido sinônimo de ameaça e até mesmo de “ciúme”, pois a maioria dos brasileiros pensa da seguinte maneira: Por que compartilhar ou doar ao estrangeiro algo que apenas deve ser dos brasileiros, como, o direto á moradia, saude e emprego. 
+Entretanto os imigrantes não estão querendo usurpar o que não é seu, nem de impor sua cultura, nem de ter supremacia diante do governo brasileiro ou fazer ameaças. Apenas clamam por ajuda, solidariedade e humanização, seja do Brasil e também do mundo. Porque encontram-se em situações de extrema vulnerabilidade e miséria, contando apenas com a cooperação dos Países ricos ou daqueles que possam contribuir de alguma forma.
+O Brasil apesar de ser um País em processo de desenvolvimento estabelece a diplomacia dos acordos internacionais e é atuante nas causas dos direitos humanos poderá ajudar os imigrantes nesta situação de crise e calamidade a qual constantemente os países vêm sendo afetado.
+Pois, o nosso País é provido de programas, leis e recursos financeiros destinados as ações sociais desta conjuntura, tais como: centro para atender pessoas em situações de ruas, que dão acolhimentos e tratamento para essa comunidade, além do apoio de instituições filantrópicas ou associações que possuem finalidade humanitária que poderão corroborar as ajudas. Todavia é necessário frisar que não será feita a substituição do brasileiro pelo estrangeiro, mas agregá-lo, dando um suporte nesta fase difícil que o seu país de origem está passando. Estabelecendo normas que possam ordenar e regular está estadia.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120 120  80  80  80 480],"[140, 120, 140, 120, 100, 620]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 140, 120, 100, 620] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 130888,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 130918
+      }
+    }),
+)"
+8.html,"Torna-se notável o aumento de imigrantes venezuelanos no Brasil nos últimos anos. Fato que fomenta diversas discussões e gera posicionamentos de políticos e pessoas influentes, visto que haja aqueles que colocam-se contra e outros a favor acerca do assunto.
+O Brasil, como país integrante da Organização das Nações Unidas (ONU) concorda e executa, ou pelo menos deveria executar planos de ações humanitárias e zelas e defender os Direitos Humanos estabelecidos por acordos globais entre países. Entretanto, muitos brasileiros, inclusive influências nacionais, repudiam a entrada de estrangeiros em nosso país e alegam a facilidade de terrorismos ou pela dificuldade econômica de abrigar cada vez mais imigrantes e, de alguma forma, desfavorecer os que daqui são de origem. Fatores como esses são geradores de xenofobia, tanto no Brasil quanto em outros países, transformando-se em um problema global e que afeta centenas de milhares de pessoas.
+Em contradição, há aquelas pessoas que dão moradia, refeições e oportunidades de trabalho assalariado. Pessoas essas que que se solidarizam e percebem em cada imigrante a dor de deixar seu país casa em busca de uma melhor condição de vida. As mesmas pessoas que acreditam em um país e um mundo melhor e que, para isso, é preciso abrir mão do pouco que se tem para ajudar quem nada tem.
+Diante dessa divergência de opiniões que vêm ocasionando conflitos no mundo contemporâneo, é dever do Governo e, consequentemente, da administração de cada país que decidam, da maneira mais justa possível, analisando os prós e contras das situações, se o país aceitará a entrada de imigrantes ou não. Se sim, criando leis e órgãos que prezem pela boa condição do imigrante e certifique-se que o mesmo respeite e tenha um convívio agradável com aquela nação, com fiscalização constante e controle de entradas. Assim, será evitado diversos problemas que estão ocorrendo em razão da imigração, os imigrantes poderão viver suas vidas passivamente e o país desenvolver-se normalmente.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120 120 120 120  80 560],"[140, 120, 120, 100, 100, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 120, 100, 100, 580] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 131471,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 131501
+      }
+    }),
+)"
+15.html,"É notório que, a imigração tem sido um grande obstáculo para os governos nos últimos tempos, e de hoje que existe migração entre países, mas atualmente com grandes crises, a imigração vem tomando grandes proporções que se tornam impossível suportar. O Brasil por exemplo, carrega uma crise financeira e, com um número enorme de desempregados. 
+Em tempos remotos, a imigração era vista como um futuro próspero forasteiros que traziam novas experiências, oportunidade e grandes descobertas e novos empregos, como os alemães, que trouxeram a cultura de fabricar vinhos de altíssima qualidade, em tempos atuais, temos os americanos, trazendo tecnologias para à plantação de soja. A imigração era vista como uma oportunidade de crescimento, assim como acontece no estado da Bahia por exemplo, mais precisamente em Luís Eduardo Magalhães, cidade pequena, mas que tem crescida e evoluída rapidamente através da plantação de soja, isso graças aos investimentos dos imigrantes, contudo a cidade vem crescendo a renda per capita, assim melhorando a qualidade de vida daqueles que ali reside, consequentemente povoados e regiões. 
+Hoje a situação é bem diferente, pois a imigração e vista como uma ameaça para o povo, já que o país passa por uma recessão gravíssima, o índice de desemprego é alarmante, há sérios problemas vários setores, tais como a saúde e outros. O governa tem tentado ajudar, fazendo pactos imigratórios, recebendo várias pessoas do país vizinho, como a Venezuela, refugiando e dando emprego a eles, mas existe uma grande preocupação, pois o Brasil já se encontra em uma situação alarmante, precisando é de ajuda, como ajudar os países vizinhos. O Brasil possui atualmente cerca de 450 mil desempregados, dessa forma, ao invés de ajudar o país vizinho, vai ser o inverso, vai é atrapalhar tanto eles como sua própria nação. 
+Sendo assim, nota-se que o ideal seria arrumar a pátria, ou seja, levando ao pé da letra a constituição, com saúde, educação, saneamento básico, moradia para todos, depois fornecer ajuda aos países vizinhos, pois se não há expectativa de vida, não tem como oferecer algo ao próximo.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 40  80 120 160 120 520],"[120, 100, 120, 80, 80, 540]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 100, 120, 80, 80, 540] \n\n\n\n\n \n\n \n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 132089,
+        ""candidates_token_count"": 28,
+        ""total_token_count"": 132117
+      }
+    }),
+)"
+14.html,"A imigração de refugiado tem sido um dos maiores desafios das nações. Este transpassa a questão humanitária e vai de encontro a soberania de muitos países. Não diferente, O Brasil enfrenta, como os demais situação parecida. Nos últimos anos uma grande quantidade de refugiados têm transpassada a fronteira do país forçando o poder público medidas que garantam a integridade da soberania nacional e que esteja em consonância aos direitos humanos. 
+Várias nações do mundo estão passando por percalços, seja por guerras, crises econômicas, conflitos internos, regimes ditatoriais... Fato que faz surgir refugiados que vislumbram nos países mais próximos a salva guarda para manterem a integridade. O que para estes é um alento, para o país que vão se refugiam se torna um problema. Que muitas vezes não está relacionado diretamente a um sentimento xenófobo, mas sim por uma questão social. No caso do Brasil, os refugiados da nossa nação adjacente se abrigaram em uma cidade de um estado da federação que tem grande dificuldade para cuidar até mesmo dos nativos. Causando um verdadeiro caos. O que fez aumentar ainda mais o sofrimento de quem já está em uma situação extrema.
+Destarte que não basta o mero acolhimento, deve-se socorrer e fomentar uma nova expectativa de vida nestas pessoas que estão distantes do país de origem. O que tende a demandar tempo e recursos. No caso brasileiro um dispêndio a mais em um país que está em busca de reduzir despesas. Salientando que se faz necessário uma previa triagem para evitar que pessoas criminosas e mal-intencionadas venham fazer nação um local para praticas criminosa e potencialize a violência.
+Desprende que o maior desafio no trato com os imigrantes está em conciliar a soberana força nacional de proteção com a aplicação de direitos humanos. É impensável deixar de ajudar o semelhante em apuros. Efetivar esse apoio sem prejudicar os demais é tarefa que requer recursos e planejamentos. O que aos poucos o país vai se consolidando. ",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[120 120  80 120 120 560],"[140, 120, 100, 100, 120, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 100, 100, 120, 580] \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 132667,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 132697
+      }
+    }),
+)"
+11.html,"No Brasil contemporâneo vivenciamos o impacto da imigração de venezuelanos por meio da fronteira entre Brasil, no estado de Roraima, e Venezuela. O êxodo venezuelano tem se desdobrado em discussões, debates, medidas governamentais de gerenciamento dos imigrantes e, finalmente, a medida mais drástica, a ameaça de retirada do Brasil do Pacto Mundial para Migração pelo Presidente da República, Jair Messias Bolsonaro.
+A questão de frente é a crise nos países de origem dos imigrantes gerada por governos corruptos, ditatoriais, guerras, conflitos internos e crise econômica além da falta de desenvolvimento na educação, carência de estruturas básicas de saneamento entre outros déficits. Já a questão de fundo, ofuscada pelo medo e desinformação, é a situação de imigrantes e refugiados que ficam à margem da sociedade e se sustentam apenas na esperança de sobreviverem em um país com condições diversas do seu país de origem.
+A retirada do Brasil do Pacto Mundial para Migração é um erro, é a negação do estado de direito daqueles que se socorrem em nossa nação, pois o contexto da Constituição de 1988 assevera que somos uma nação solidária e que em nossas relações internacionais prevalecerão os direitos humanos e a cooperação entre os povos para o progresso da humanidade, o que significa que a saída do Brasil desse acordo é a negação da própria Constituição Federal, a carta inaugural da República Federativa Brasileira.
+O Brasil é um país emergente, uma nação em ascensão com plenas condições de acolher imigrantes, sua acolhida significa, além de progresso, também o desenvolvimento e demonstração de prevalência dos direitos humanos com o absoluto respeito a dignidade da pessoa humana.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[160 120 120  80   0 480],"[160, 160, 140, 140, 140, 740]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 160, 140, 140, 140, 740] \n\n\n\n\n \n\n \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 133181,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 133211
+      }
+    }),
+)"
+9.html,"O século XX foi marcado por crises humanitárias, guerras de grandes proporções e, consequentemente, pelo elevado número de imigrantes. Atualmente, os fatores que motivaram migrações no passado, como, por exemplo, as perseguições políticas e as crises econômicas, ainda estão presentes no mundo, o que mantém o fluxo migratório constante. É evidente que os problemas dos povos que buscam moradia em outros países aumentam cada vez mais, uma vez que existem países que negam auxílio a essas pessoas.
+Em 1948, a Organização das Nações Unidas criou a Declaração Universal dos Direitos Humanos, um dos documentos mais importantes sobre os direitos fundamentais de todos, que se opunha, dentre outros, à tortura e ao desrespeito contra a dignidade da pessoa humana. Apesar da existência de tal documento, muitos países colocam-se contra esses direitos inaliáveis quando optam por não atender, de qualquer maneira, pedidos de abrigo. Seja pela perspectiva nacionalista ou pela aversão ao multiculturalismo, decisões do tipo caracterizam-se como tortura indireta, pois vulnerabilizam ainda mais alguns grupos, expondo-os, por exemplo, à doenças e atos de violência militar.
+Tal como outras nações, o presidente do Brasil, Jair Bolsonaro, mostra-se contrario à decisão de aceitar imigrantes no país. Uma decisão contraditória para um país cujo a Constituição Federal prega a construção de uma sociedade solidária.
+Portanto, o Governo Federal do Brasil deve continuar a auxiliar imigrantes, visando garantir seus direitos e seguir a Constituição Federal, e integrá-los ao mercado de trabalho para, em uma relação de mutualismo, colaborarem no desenvolvimento da economia.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[200 200 160 200 160 920],"[140, 140, 140, 120, 100, 640]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 140, 140, 120, 100, 640] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 133685,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 133715
+      }
+    }),
+)"
+10.html,"No mundo atual, milhares de indivíduos estão saindo do seu país natal e deslocando-se para o Brasil. Tomam essa decisão, de deixar famílias, amigos e parentes, no intuito de trabalhar e conquistar uma vida melhor para a sua sobrevivência.
+Esses seres humanos estão por toda parte no nosso país. Em ruas, praias e empresas, vendendo de tudo para se manter. Infelizmente, essas ocorrências são desagradáveis, pois precisam fugir de guerras, pobreza e crises para continuar a sua motivação de vida. Para algumas pessoas, isso pode ser algo aprazível, mas para outras não.
+A migração está evoluindo cada vez mais, todos os dias em função dos aspectos humanistas. Cada pessoa é única e a sua vida deve ser construída da maneira, que resultam o sucesso e a tranquilidade Nada é fácil atualmente, mas não podemos desanimar. A luta de hoje, será o sucesso de amanhã.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[ 40  40  40  40  40 200],"[60, 80, 60, 60, 60, 320]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[60, 80, 60, 60, 60, 320] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 134024,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 134049
+      }
+    }),
+)"
+19.html,"O escritor brasileiro, Milton Nascimento em sua música “Sonho Imigrante”, expressa o sentimento de saudade e anseio de retorno à pátria amada. Em decorrência da grave crise política, econômica e social que assusta países em todo o mundo, milhares de pessoas recorrem ao Brasil como refugio em meio ao caos que vivem.
+Em primeira análise, é importante ressaltar sobre a crise que assola a Venezuela, o que fez com que muitos vissem o Brasil como uma grande porta de recomeço. Segundo dados do Governo Brasileiro, foram emitidas aproximadamente cinco mil carteiras de trabalho dos imigrantes Venezuelanos, o que faz com que trabalhadores que exercem serviços de baixa escolaridade, se sintam ameaçados com a nova concorrência. Outrossim mesmo que a sociedade civil se sinta ameaçada, o Governo Brasileiro não pode omitir ajuda aos estrangeiros, pois a Constituição brasileira prevê igualdade entre nacionais e estrangeiros. 
+Alem do mais, ressalte-se que o Brasil também vive uma crise econômica, com universidades, escolas e hospitais em estado de calamidade. Com a crescente onda de imigrações as autoridades deverão aumentar o repasse de recursos aos municípios, a fim de atender as necessidades básicas dos moradores, sejam eles nacionais ou estrangeiros.
+Fica clara, portanto a necessidade de ações por parte do Ministério da Justiça juntamente como Departamento de Migrações (DEMIG), como a solução dos “Campos fechados” uma proposta feita pela França e Espanha. É de extrema importância que o Ministério da Saúde intensifique campanhas de vacinação, para que doenças já erradicadas não se tornem novamente um alarde á saúde pública.",o-brasil-e-os-imigrantes-no-mundo-contemporaneo,[160 120  80 120  80 560],"[140, 120, 100, 120, 100, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 100, 120, 100, 580] \n\n\n\n\n\n\n\n\n \n\n \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 134504,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 134534
+      }
+    }),
+)"
+7.html,"A jurisdição brasileira é representada por diversas instâncias, ou seja, a utilização de recursos faz com que o processo atinja até a 4° grau, representado pelo Supremo Tribunal Federal. Ocorre que, o mesmo está julgando o mérito de três Ações Diretas de Constitucionalidade, afim de declarar constitucional o Artigo 283 do Código de Processo Penal. O resultado do julgamento será pela permissão, ou não, da prisão em segunda instância.
+A Constituição Federal de 1988 representa o texto de maior hierarquia presente no ordenamento pátrio e, por isso possui certa ""rigidez"", sofrendo uma série de limitações que impedem a sua modificação, como por exemplo a impossibilidade de suprimir Direitos e Garantias Fundamentais de seu texto. Em seu Artigo 5º, a Constituição traz um rol de garantias e dentre elas está a presunção de inocência, ou seja, a garantia de que ninguém será considerado culpado, sem sentença penal condenatória transitada em julgado. Em complementação, o Código de Processo Penal, com intuito de viabilizar o direito constitucionalmente previsto, expressou em seu Artigo 283 que, a prisão deve ser realizada em decorrência de sentença condenatória transitada em julgado, salvo as exceções da prisão temporária e preventiva.
+O respeito às garantias constitucionalmente previstas constitui princípio básico de um Estado Democrático de Direito e tem como consequência a segurança jurídica. A implementação de Pena Privativa de Liberdade em indivíduos que ainda não foram considerados culpados, uma vez que a culpa só ocorre no transito em julgado, representa grave risco à a toda definição de Estado que foi construída. Sabe-se, ainda, que a Constituição Federal foi criada no contexto histórico do pós ditadura, e portanto estabelece inúmeras proteções ao indivíduo, estabelecendo expressamente que só há condenação com o trânsito em julgado, ou seja, após a decisão definitiva.
+A possibilidade de prisão em segunda instância, resulta no adiantamento da culpa, de forma à responsabilizar criminalmente um indivíduo que, no ponto de vista legal, ainda é inocente. O STF como guardião da Constituição ao decidir pela inconstitucionalidade da norma constante no Artigo 283 do supramencionado Código, dará margem para uma interpretação normativa na qual excluirá completamente o contexto histórico no qual a Constituição foi criada.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120 120 120 120  80 560],"[160, 160, 140, 140, 140, 700]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 160, 140, 140, 140, 700] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 135172,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 135202
+      }
+    }),
+)"
+3.html,"O Brasil tem vivido momentos conturbados em relação à política. No meio de tantos escândalos e corrupções, não sabemos ao certo quem está certo ou não. Este tipo de conflito costuma ser resolvido por grandes tribunais (STJ, STF e afins), que exercem esse trabalho por nós.
+Nas últimas semanas, foi decidido pelo STF (Supremo Tribunal Federal), através de uma votação, que a pena de um réu só poderá ser emitida, após o mesmo não ter mais recursos contra essa determinação e, a seguir, ser julgado pelo próprio Supremo Tribunal Federal.
+De acordo com à Constituição Federal, a terceira instância não existe. Porém, o réu pode recorrer ao Supremo para revisar às medidas judiciais tomadas pela 2° instância. Neste momento, o mais cabível, seria em que o réu começasse a ""pagar"" sua pena enquanto aguarda esta revisão. Em certos pontos, os Guardiões da Constituição estão indo contra à mesma, e isso em certo ponto causa discórdia entre a população. Isso demonstra, cada vez mais o quanto o Brasil, em questões políticas, ainda engatinha lentamente para evoluir.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[ 80  80  80  80  80 400],"[100, 80, 80, 80, 80, 420]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 80, 80, 80, 80, 420] \n\n\n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""LOW""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 135563,
+        ""candidates_token_count"": 26,
+        ""total_token_count"": 135589
+      }
+    }),
+)"
+18.html,"É notório que a prisão após o julgamento em segunda instância traz divergências de opiniões, principalmente em relação a compatibilidade ou incompatibilidade com o ordenamento jurídico e com a Constituição. Dentre tantos fatores relevantes temos aspectos favoráveis e contrários a esse ato muitas vezes inconstitucional.
+Sabe-se que a maioria dos aspectos favoráveis ao cumprimento da pena em segunda instância referem-se a palavra impunidade. Essas pessoas dizem que os mais ricos jamais seriam presos, pois possuem todos os recursos e os melhores advogados para procrastinar ao máximo suas penas. Alegam que outros criminosos seriam igualmente beneficiados ante a demora na tramitação dos processos na justiça brasileira; tudo isso contribuiria ainda mais para o aumento do crime.
+Por outro lado, os que são contrários a prisão antes do trânsito em julgado fundamentam suas posições no texto da própria Constituição, no qual está escrito que ninguém considerado culpado senão após o trânsito em julgado da sentença penal condenatória que só ocorre no momento que se esgotam todos os recursos. Essas pessoas também entendem que a Legislação Penal já criou medidas para inibir o crime e proteger a sociedade de perfis altamente perigoso, como a prisão preventiva e temporária.
+Por tudo isso, faz-se necessário que o poder judiciário cumpra o seu papel institucional e julgue com a maior brevidade possível. Não obstante, o Parlamento deve discutir sobre todo o sistema recursal penal brasileiro e a sua manutenção, enquanto isso, o Supremo Tribunal Federal manter deve manter o acesso aos recurso previsto em lei.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120 120 120 160 160 680],"[120, 120, 120, 120, 100, 580]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 120, 120, 120, 100, 580] \n\n\n\n\n\n\n \n\n \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 144200,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 144230
+      }
+    }),
+)"
+4.html,"A prisão do réu após a condenação em segunda instância é algo que já foi discutido em ocasiões passadas e vem sendo discutido novamente no Brasil. Com isso, levante-se a questão se é justo ou não tal atitude antes mesmo de esgotados todos os recursos cabíveis, ou seja, antes do trânsito em julgado.
+O primeiro aspecto a ser abordado é que atualmente, no Brasil, o réu é preso logo após a condenação em segunda instância, momento em que ele passa a cumprir sua pena. No entanto, isso vai em desacordo com um dispositivo da constitucional, que versa que o réu só poderá ser preso após o trânsito em julgado, bem como fere o princípio da presunção de inocência.
+O segundo aspecto a ser frisado é a questão da impunibilidade, haja vista que se a justiça brasileira decretar a prisão do réu só depois de esgotado todos os recursos cabíveis, a sensação de não punição aumentaria entre as pessoas e, por conseguinte, os delitos aumentariam, gerando ainda mais morosidade na justiça brasileira.
+Dessa forma, torna-se evidente que a prisão do réu seja logo após a condenação em primeira instância, para que a sociedade acredite na função punitiva do Estado, e os delituosos possam ter o mínimo de sensação de punibilidade por parte do Estado. Caso contrário, a morosidade processual impactaria ainda mais, devido aos grandes números de processos tramitando perante à justiça brasileira.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120 120 120 120 120 600],"[140, 120, 140, 120, 100, 620]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 140, 120, 100, 620] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 144662,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 144692
+      }
+    }),
+)"
+5.html,"O Supremo Tribunal Federal discute nesse mês sobre a prisão em 2º instância, questionando se o réu deve ou não ficar preso após a decisão do juiz, validada pelo colegiado de desembargadores do Tribunal de Justiça. É fato, que o réu deve ser mantido preso após condenação em 2º instância, visto que o aguardo em liberdade após o trânsito em julgado reforça a impunidade da justiça brasileira, bem como desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ, acumulando processos no STF.
+Em primeira análise, cabe ressaltar que se o réu aguarda o julgamento em liberdade, após encerrado todos os recursos, há reforço da impunidade no Brasil. Para Luiza Frischeisen, do Ministério Público Federal tal decisão incentiva à impunidade, visto que há diversos meios para recorrer de acordo com a lei penal. Dessa forma, entende-se a importância de prender os réus em segunda instância, a fim de não estimular a prática de crimes, bem como sua impunidade.
+Além disso, cabe frisar também que o aguardo a liberdade em trânsito em julgado, desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ, acumulando processos no STF. De acordo com a Folha de S. Paulo, os acordos internacionais sobre os direitos fundamentais apontam que as decisões da 1ª e 2ª instância bastam para garantir o direito do réu em recorrer. Assim, verifica-se que a liberdade em trânsito julgado incha a maquina pública, causando maior lentidão nos processos, podendo esses serem prescritos. 
+Levando-se os aspectos apresentados acima, é importante ressaltar que o réu deve ser mantido preso em 2ª instância, uma vez que o aguardo em liberdade após o trânsito em julgado reforça a impunidade da justiça brasileira, bem como desvalida a decisão tomada pelo juiz e pelo colegiado de desembargadores do TJ. Portanto, é necessário que o Ministério Público em parceria com os tribunais de justiça reflitam e pensem a respeito das consequências da soltura dos criminosos em 2º instância no nosso país. ",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120  80  80 120  80 480],"[140, 120, 120, 120, 120, 620]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 120, 120, 120, 620] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 145275,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 145305
+      }
+    }),
+)"
+17.html,"O Brasil tem vivido nos últimos meses uma discussão a respeito da prisão ou não de réus condenados em 2ª instância. A decisão, que será proferida pelo Supremo Tribunal Federal pode mudar o curso da legislação criminal do país. As opiniões são divididas, porém, temos que definir o que é melhor para a sociedade visando à segurança e o bem comum.
+Por um lado, há a defesa da liberdade até o trânsito em julgado, como dita a nossa Constituição de 1988. Isso dá o direito ao réu de esgotar todas as possibilidades de recursos pelo contraditório e pela ampla defesa. Devemos nos colocar na situação de um réu, que se julga inocente, e que buscará provas para garantir sua liberdade. Não seria justo que o mesmo permanecesse preso sabendo que não cometeu o crime. Estaríamos privando um inocente de sua liberdade e contradizendo os princípios da Constituição Federal. Acredito que a condenação de forma errônea em 2ª instância pode até ocorrer por falhas da justiça, mas, em casos raríssimos que não representam a maioria. A condenação é feita por pessoas com elevado conhecimento de direito e que usam de provas concretas para tal.
+Por outro lado, como já houve a condenação em 2ª instância, tem-se a prova de que houve sim um crime e a pessoa precisa pagar por ele. Entendo que o julgamento pela condenação em 2ª instância já esgotou as possibilidades de inocência e a entrada de recursos seria uma mera tentativa de reduzir ou minimizar a pena. Se houve uma condenação, esta pessoa representa um risco para a sociedade, podendo cometer mais crimes e tentar fraudar informações para garantir sua inocência. E ainda, se tivermos um sistema judiciário sério e eficiente, como poderíamos condenar numa instância e inocentar em outra?
+A não prisão em 2ª instância requer mais tempo de recursos para o réu e consequente maior morosidade nas decisões da justiça. Esta morosidade pode acarretar danos à sociedade como aumento de crimes, fraudes e tentativas de escapar da justiça.
+Por fim, a condenação em 2ª instância em minha opinião é suficiente para a prisão do réu. Cabe ao Supremo Tribunal Federal decidir o que melhor atende ao interesse público e seja mais eficiente e eficaz para o combate aos crimes e à constante luta por um país melhor.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120 120 160 120 120 640],"[140, 120, 140, 140, 120, 660]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 140, 140, 120, 660] \n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 145934,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 145964
+      }
+    }),
+)"
+2.html,"O mês de novembro iniciou-se com grande discussão, pois o Supremo Tribunal Federal (STF) está definindo se o réu deverá ficar preso ou permanecer solto até recorrer às últimas instâncias. Atualmente a legislação brasileira, em consonância com leis de países que inspiram nosso sistema criminal, possibilita as prisões de réus após condenações de segunda instância.
+Esse debate é característico do STF, que sendo órgão máximo da justiça do país discorre sobre questões jurisprudenciais, ou seja, os aspectos referentes às decisões, aplicações e interpretações das leis.
+A Corte Suprema pode mudar esse posicionamento, permitindo que os encarceramentos somente ocorram após o esgotamento das possibilidades recursais ao Superior Tribunal de Justiça (STJ) e ao próprio STF. A base legal para mudança, caso aconteça, é a Constituição Federal que diz ""ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória"".
+Percebe-se um grande impasse, por um lado a mudança do atual posicionamento acarretará aumento de criminosos às soltas aguardando julgamento - julgamento esse que já é moroso-, uma vez que a condenação só poderá acontecer após o julgamento do STJ e STF. Por outro lado, a conservação do entendimento em vigor pode ser compreendida como violação de um direito constitucional, já que haverá possibilidade de recursos às 3ª e 4ª instâncias.
+Luiza Cristina Frischeisen, do Ministério Público Federal, considera que ""se o STF decidir que a decisão ocorra somente após o trânsito em julgado (esgotados todos os recursos), o Brasil ficará extremamente isolado, em matéria penal, entre outros países democráticos. Uma decisão nesse sentido favorece a impunidade"", infelizmente a impunidade é bem conhecida no país, e aumentá-la fará com que o brasileiro desacredite ainda mais na justiça do país.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120  80  80  80  80 440],"[120, 120, 120, 140, 140, 640]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 120, 120, 140, 140, 640] \n\n\n\n\n\n\n \n\n \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 146487,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 146517
+      }
+    }),
+)"
+6.html,"Múltiplos fatores são considerados na condenação de um réu e isso pode trazer à tona algumas polêmicas. Atualmente, está em voga o questionamento quanto a legalidade da pena após a decisão do juiz ter ocorrido em segunda instância.
+Alguns países servem de exemplo para melhor esclarecimento entre as ideias opostas, e alguns casos específicos trazem a noção de que o cumprimento da pena é algo orgânico, por assim dizer, pode ser eliminado, diminuído ou ampliado, mediante apuração de novas provas, ou comportamento do réu após a batida do martelo.
+Assim, sabendo que a punição ou absolvição, deve ocorrer em face do ato praticado, relacionando as consequências desse ato e principalmente a preservação do bem estar social, há a certeza de que o refinamento de antigos processos são positivos ao sentido da justiça. Então, a despeito da última palavra decisória ter sido declarada em qualquer instância possível, é preciso reforçar a ideia de que o objetivo da libertação de um preso deve acontecer, exclusivamente, caso seja benéfico ao Brasil.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[0 0 0 0 0 0],"[120, 100, 80, 80, 80, 460]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 100, 80, 80, 80, 460] \n\n\n\n\n \n\n \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 146866,
+        ""candidates_token_count"": 27,
+        ""total_token_count"": 146893
+      }
+    }),
+)"
+12.html,"Os ""Cinco do Central Park"" é um seriado que mostra cinco jovens que foram condenados por um crime que não cometeram. Nesse sentido, o debate sobre a prisão após a segunda instância é determinante para evitar decisões errôneas. Assim, depreende-se que fatores como a ineficácia estatal de investigar os crimes e o precário sistema de defesa pública contribuem para que seja garantido a prisão após esgotados todos os recursos.
+A princípio, percebe-se que os índices de crimes investigados pelas polícias civis aumentaram exponencialmente, devido ao crescimento populacional e ao maior acesso aos conhecimentos de direitos individuais pela população. Entretanto, o aumento não foi acompanhado pela estrutura organizacional das delegacias que investigam os delitos, devido, assim, a pessoal insuficiente, prazos curtos e mecanização dos procedimentos investigativos. Consequentemente, torna-se o estado ineficiente para investigar devidamente os casos.
+Além disso, outro fator importante é o sistema de defensoria pública que em várias regiões do Brasil chega a ser precário. Porquanto, muitas regiões interiores do país contam com poucos defensores públicos para demasiadas causas e áreas de atuação. Dessa forma, deixam de prover a defesa integral de qualidade em todas suas instâncias de forma satisfatória a todos.
+Em suma, entende-se que a prisão após todos os recursos seria essencial para que pontos como a ineficácia para investigar e a defesa pública precária não sejam preponderantes para decisões errôneas. Como diz o ditado popular, a justiça tarda mas não falha.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[160  80 160 160 120 680],"[100, 100, 100, 100, 80, 500]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 100, 100, 100, 80, 500] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 147340,
+        ""candidates_token_count"": 29,
+        ""total_token_count"": 147369
+      }
+    }),
+)"
+0.html,"Assunto que repercute de forma constante nos atuais veículos de informações da atualidade tem gerado uma problematização constante, devido as opiniões opostas. O tema que concentra as atenções populares a espera de uma decisão, estão voltados ao Poder Judiciário.
+Que debatem se o réu deve ou não, ser preso após condenação em 2º instância.
+Por outro lado existem aqueles que defendem a posição de quem deve avançar o processo até o esgotamento de possibilidades do réu provar sua inocência. Para que então o acusado tenha sua ampla defesa e o devido processo legal.
+Todavia, o fato de se ter prolongado o processo por 2 níveis judiciários de julgamento, está mais do que provado a decisão dos juízes em indeferir o caso do acusado, além do mais acaba contribuindo pela celeridade do processo nos tribunais e não fomentar a impunibilidade que existe devido ao réu não ser considerado culpado até o transito julgado da sentença penal condenatória.
+Por trás do fato há detentores da opinião de que o Brasil é um país retrógado e impunível pelas leis e o sistema jurídico atuais que beneficiam os acusados e sentenciados, ficando assim distante de países onde as leis são severas e os índices de criminalidades são baixos.
+Contudo para que o Brasil possa chegar a notoriedade de um país soberano e justo, devemos nos conscientizar de que tudo começa pela aplicabilidade de normas impostas seja elas de direito oferecido e dever imposto.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[0 0 0 0 0 0],"[80, 80, 80, 80, 80, 400]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[80, 80, 80, 80, 80, 400] \n\n\n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n ""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""LOW""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 147811,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 147836
+      }
+    }),
+)"
+1.html,"Consoante a constituição federal vigente, ninguém será preso até a condenação transitada em julgado. A carta magna é clara quanto ao tempo em que se deve começar, de fato, o cumprimento do regime. Todavia, a constituição expressa a vontade do povo, o qual é realmente o detentor originário do poder constituinte, sendo assim, não é possível que se interprete a constituição apenas de forma literal, é necessário levar em conta também a opinião a quem vai recair essas mudanças.
+O Brasil é signatário de vários tratados e convenções internacionais, inclusive, a constituição federal de 1988 possui diversos dispositivos extraídos desses acordos. Um deles, de suma importância, decorre da Declaração Universal dos Direitos Humanos, de 1948, o qual é o princípio da presunção de inocência. Muitas pessoas que são contra a prisão após a segunda instância se apoiam nesse princípio, dizendo que se ainda é possível recorrer, não há que se falar em prisão. O problema é que após a segunda instância não se avalia mais as provas e seus conteúdos, mas apenas as matérias constitucionais, ou seja, o condenado já é culpado, o que falta é apenas uma formalidade em que os tribunais superiores ratificam que tudo está em conformidade com a constituição.
+Além disso, essas instâncias superiores, de certo modo, ferem o princípio da isonomia, visto que não são acessíveis a todos, e sim a um grupo seleto de pessoas com alto poder aquisitivo, que podem contratar os melhores advogados com capacidade de elaborar e de se fazer chegar esses pedidos ao plenário dos tribunais superiores. Como nossa lei penal retroage em favor do réu, caso mudem o atual entendimento de que a prisão após segunda instância é lícita, muitos poderão ser beneficiados, inclusive, estupradores, traficantes, corruptos. Por ser maioria o número de pessoas a favor do entendimento atual e para se garantir o sentimento de justiça, o STF precisa manter seu entendimento de 2016, pois tais mudanças, em um espaço tão curto de tempo, acarretam prejuízos à sociedade e grave instabilidade na ordem jurídica.
+Percebe-se, portanto, que para que o país realmente deixe de ser conhecido como o país da impunidade, não basta que apenas seja mantida a prisão após segunda instância, como também que se endureça ainda mais as penas. Para que tudo isso seja possível, é imprescindível que a população mude seus pensamentos, mostre que realmente quer mudanças e que está disposta a lutar por isso, pois só assim, lutando, que será possível a concretização, de fato, do que traz a nossa constituição em seu artigo 5º: ""todos são iguais perante a lei"".",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[160 120 160 120 160 720],"[140, 120, 120, 120, 100, 600]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 120, 120, 100, 600] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 156709,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 156739
+      }
+    }),
+)"
+13.html,"Atualmente o número de processos criminais no Brasil é muito grande, com isso a prisão após a condenação do réu em 2ª instância, se torna insensata, pois as prisões brasileiras estão superlotadas, e esse fato supracitado só piora tal situação.
+Em primeiro lugar devemos destacar que uma decisão nesse sentido favorece a injustiça. Além disso no direito penal brasileiro existe um grande número de recursos que devem ser respeitados. Uma vez que é direito do réu permanecer em liberdade até que se esgotem todos os recursos disponíveis.
+Dessa maneira para mudar a realidade do nosso país o Governo Federal deve criar leis que proíbam a prisão em 2ª instância. Como disse Desmóstenes : ""É necessário que os princípios de uma política sejam justos e verdadeiros"", Ou seja, deve ser preso quem realmente merece ser preso!",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[ 80  80  80  80  80 400],"[100, 80, 80, 100, 100, 460]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 80, 80, 100, 100, 460] \n\n\n\n\n\n\n \n\n \n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""LOW""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 157037,
+        ""candidates_token_count"": 28,
+        ""total_token_count"": 157065
+      }
+    }),
+)"
+16.html,"Desde o início da civilização ocidental, o sistema greco-romano compõem os alicerces destas sociedades. Com seu cerne no sistema citado, a aplicação da justiça brasileira poderá sofrer mudanças a partir da decisão do STF se um réu deve ou não ser condenado em segunda instância. Diante dessa questão, cabe analisar os dois principais motivos pelos quais a decisão deve ser a favor do encarceramento em segunda instância.
+Primeiramente, a revogação da prisão em segunda instância viola o estado democrático de direito. Sabe-se que, na interpretação jurídica vigente, um réu, após ser condenado por um juiz e um desembargador, possui sua liberdade cassada. Entretanto, caso o STF decida pela liberdade do réu até que este seja julgado em terceira instância, o estado estará desconsiderando os julgamentos anteriores dos profissionais defensores da lei. Nesse sentido, a medida em que o órgão governamental de certa forma anulas as duas decisões judiciais anteriores, vigorando apenas o terceiro julgamento, este está, portanto, indo contra o princípio democrático, que baseia-se na decisão da maioria.
+Em segundo plano, a retirada do aprisionamento em segunda instância promove a manutenção da impunidade no país. De acordo com Emile Durkheim, em virtude de transformações, as normas e valores sociais de uma civilização podem ser desestruturados. Sob esse viés, em uma sociedade em que indivíduos não possuem sua liberdade retirada após serem condenados em dois julgamentos, ocorre o esfacelamento da norma social de boa conduta.
+Em suma, a decisão do Superior Tribunal Federal contra a condenação em segunda instância acarreta em dois grandes entraves para a sociedade brasileira, que serão responsáveis pela desestruturação da moral e da democracia.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[120 120  80 120  80 520],"[140, 120, 100, 100, 100, 560]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[140, 120, 100, 100, 100, 560] \n\n\n\n\n \n\n \n\n\n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 165718,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 165748
+      }
+    }),
+)"
+8.html,"A Constituição Federal de 1988, em seu artigo 5, é clara ao determinar que, salvo nas hipóteses de prisões cautelares, ninguém será preso até o trânsito em julgado da sentença penal condenatória, ou seja, até que não caibam mais recursos. Apesar da previsão legal, o Supremo Tribunal Federal (STF) fez um ""malabarismo interpretativo"" ao julgar legítima a prisão do réu em segunda instância.
+Nesse contexto, a Corte Suprema, quando julgou o tema, se afastou de sua função precípua que é aplicar a lei, tendo em vista que a competência para elaborá-las é do Poder Legislativo. Sem dúvida, o STF, ao passo que ignorou a interpretação literal e lógica da Constituição, se comportou como um rei absolutista que cria e aplica as normas ao seu próprio alvedrio.
+Ademais, erroneamente, argumenta-se que a prisão após segunda instância é necessária, uma vez que o julgamento completo de uma ação penal, com o esgotamento de todos os recursos, é muito demorado e, assim, o réu permanece em liberdade durante todo o processo, de modo a fortificar o sentimento de impunidade perante a sociedade. Contudo, é importante dizer que não é razoável que alguém seja antecipadamente punido por pura ineficiência do Poder Judiciário em dar celeridade às suas demandas. Ora, se há morosidade, isso deve ser solucionado de uma forma que não aniquile o princípio da presunção de inocência!
+Portanto, tal medida validada pelo STF é um atentado contra a ordem constitucional. Por conta disso, para sanar tal controvérsia, deverá o Poder Legislativo aprovar lei que detalhe claramente a vedação à prisão em segunda instância, sob pena de violação a um caro direito fundamental.",um-reu-deve-ou-nao-ser-preso-apos-a-condenacao-em-2-instancia,[ 200  200  200  200  200 1000],"[160, 140, 160, 140, 140, 740]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 140, 160, 140, 140, 740] \n\n\n\n\n\n\n \n\n \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 166267,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 166297
+      }
+    }),
+)"

@@ -1,5 +1,7 @@
 import re
 import numpy as np
+from sklearn.metrics import cohen_kappa_score
+
 
 QWK = "QWK"
 RMSE = "RMSE"

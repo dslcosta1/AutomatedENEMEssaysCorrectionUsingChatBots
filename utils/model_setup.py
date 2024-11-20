@@ -10,7 +10,7 @@ GEMINI_15_FLASH = "gemini-1.5-flash"
 LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
 
 SLEEP_TIME = {}
-SLEEP_TIME[GEMINI_15_FLASH] = 4
+SLEEP_TIME[GEMINI_15_FLASH] = 0
 SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 2
 
 def choose_model(model_cod = -1):

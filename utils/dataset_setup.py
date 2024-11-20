@@ -48,19 +48,7 @@ def getDataset(path_to, dataset_name):
     case "essaysFullGrade":
       essays_data = []
 
-      filepath = path_to + "Datasets/fullGradeEnemEssays2024/train.csv"
-      with open(filepath, mode ='r') as file:
-            csvFile = csv.DictReader(file)
-            for lines in csvFile:
-                essays_data.append(lines)
-
       filepath = path_to + "Datasets/fullGradeEnemEssays2024/test.csv"
-      with open(filepath, mode ='r') as file:
-            csvFile = csv.DictReader(file)
-            for lines in csvFile:
-                essays_data.append(lines)
-
-      filepath = path_to + "Datasets/fullGradeEnemEssays2024/validation.csv"
       with open(filepath, mode ='r') as file:
             csvFile = csv.DictReader(file)
             for lines in csvFile:
@@ -85,12 +73,14 @@ def getDataset(path_to, dataset_name):
             csvFile = csv.DictReader(file)
             for lines in csvFile:
                 essays_data.append(lines)
+      print(f"Propor2024 train size = {len(essays_data)}")
 
       filepath = path_to + "Datasets/" + dataset_name + '/test.csv'
       with open(filepath, mode ='r') as file:
             csvFile = csv.DictReader(file)
             for lines in csvFile:
                 essays_data.append(lines)
+      print(f"Propor2024 train and validation size = {len(essays_data)}")
 
       filepath = path_to + "Datasets/" + dataset_name + '/validation.csv'
       with open(filepath, mode ='r') as file:
@@ -98,6 +88,7 @@ def getDataset(path_to, dataset_name):
             for lines in csvFile:
                 essays_data.append(lines)
 
+      print(f"Propor2024 total size = {len(essays_data)}")
       output = essays_data
 
     case "extended2024":

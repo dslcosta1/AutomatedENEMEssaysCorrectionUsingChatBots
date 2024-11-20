@@ -1,0 +1,284 @@
+id,essay_text,id_prompt,grades,gemini_grades,gemini_output
+7.html,"O Ministério da Cultura não está nem um pouco preocupado com a preservação do patrimônio público, o incêndio do Museu Histórico Nacional é a grande confirmação deste fato.
+Entre as 350 mil peças do vasto acervo, restou muito pouco do conhecimento científico existente, vai que entre os manuscritos tivesse uma árvore genealógica explicando o desenvolvimento psicomotor da criança, e que ali alguns professores de escolas públicas que estivessem preocupados com as questões sociais do país, levassem seus alunos e fizessem estes compreenderem a situação educacional do Brasil?
+Juntos, eles podem compreender que Componentes curriculares como a Educação física e a Artes e Educação são essenciais para a formação das crianças na Educação Infantil (0 a 5 anos e 11 meses), permitindo que os discentes tenham acesso à alfabetização.
+Descobrir que estes componentes curriculares trabalham as habilidades motoras básicas manipulativas (apanhar, lançar...) e locomotoras (correr, saltar...) que são fundamentais para a estruturação do corpo, pois a criança precisa ter a lateralidade (noção de lado direito e esquerdo, haja vista que, tanto a leitura, como a escrita, quanto o cálculo são realizados da esquerda para direita) estruturada, saber fazer a reversibilidade, ou seja, se colocar no ponto de vista do outro, no caso o caderno, para assim fazer a escrita, a leitura e o cálculo.
+Contudo isso, os professores e alunos da rede pública devem, de forma organizada, pedir a inclusão destes componentes curriculares na teoria e na prática, permitindo a emancipação de uma classe social que atualmente está sendo vítima de uma ordem social vigente, deixando estes como seres puramente biológicos e não sociais e culturais.",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,"[0, 0, 0, 0, 0, 0]","[80, 40, 40, 60, 40, 260]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[80, 40, 40, 60, 40, 260] \n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 5079,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 5104
+      }
+    }),
+)"
+1.html,"Na noite de domingo dia dois de setembro de 2018 por volta das 19:30 da noite, houve um incidente com o Museu nacional do Rio de Janeiro. Dentre tantos motivos relevantes, temos: destruição de fósseis antigos e assim como uma perca para o Brasil.
+O Museu foi fundado em seis de junho de 1818, nesse ano completou duzentos anos da sua existência. Ninguém sabe como começou o incêndio, mas muitos acreditam que seja por conta das afiações assim como um morador local diz te visto um balão caindo no museu que poderia te causado o
+devido incêndio. Foram perdidas muitas estruturas antigas e também a mais importante as fosseis de luzia.
+O que aconteceu com o museu deixou vários brasileiros triste, porém foi uma perda de não só de objetos e sim de lembranças de pessoas importantes que conviveu la, ou seja, a familia real e que também foi contestado a independência.
+O Michel Temer comentou que foi uma perda incalculável para o país e que foi perdido duzentos anos de pesquisas, assim como o MEC ofereceu ajuda para o que precisar para recuperar o patrimônio histórico do Brasil. ",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,"[0, 0, 0, 0, 0, 0]","[120, 60, 40, 40, 40, 260]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[120, 60, 40, 40, 40, 260] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 5469,
+        ""candidates_token_count"": 26,
+        ""total_token_count"": 5495
+      }
+    }),
+)"
+9.html,"Quando falamos em cultura cultura, logo pensamos em museus ou teatros, é o que mantém nossa história viva, que fazem lembrar-se da extrema importância de seus acontecimentos pelo país, e país e, quando algo destrói esses monumentos, parte do país se decepciona, por lembrar da alegria que trazia as às pessoas saberem que nossa história estava viva de certo modo. E o motivo é o governo, por investir em outros projetos ao invés de focar na cultura do país.
+A história do país deveria ser uma das coisas com a qual o governo mais deveria se importar, pelo motivo de sempre deixar as pessoas mais informadas e lembradas, porém isso não existe, eles preferem investir em estádios ao invés de manter histórias de décadas viva. Como o museu nacional Museu Nacional, com seus milhões de visitantes anualmente, e nem isso foi um motivo para o governo dar a atenção necessária, é como se tudo isso fosse uma brincadeira para eles, e acabam deixando de lado algo revolucionário.
+Agora com o inicio início das reformas do museu, não só do nacional como outros destruídos também por incêndios, o governo deveria pensar em investir nos patrimônios culturais, como os próprios viram como isso abalou os brasileiros, e os mesmos pedem que eles sejam cuidados e preservados, e isso só pode acontecer com a colaboração, principalmente daqueles que estão acima de nós, começando pela parte da valorização e terminando com a ajuda que ela precisa.",patrimonio-historico-e-cultural-brasileiro-um-caso-de-descaso,"[0, 0, 0, 0, 0, 0]","[100, 60, 60, 80, 60, 360]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 60, 60, 80, 60, 360] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 5910,
+        ""candidates_token_count"": 26,
+        ""total_token_count"": 5936
+      }
+    }),
+)"
+7.html,"É de conhecimento geral que, o Brasil vêm sofrendo uma grave crise na sua economia e os governantes decidiram aumentar os valores de praticamente tudo o que tem no país.
+Por conta disso os caminhoneiros no fim de maio resolveram fazer uma paralisação bloqueando qualquer passagem de 24 estados e no Distrito Federal, pedindo pela a diminuição do valor da gasolina, também para abaixarem o custo do pedágio entre um lugar e outro, e diferentes tipos de pedidos.
+O governo, nos primeiros dias, tentou rebater e disseram que iriam prender e multar os protestantes, porém não funcionou, eles não desbloquearam nenhuma das rodovias. Com isso causou a falta de diesel, de alimentos, queda nas indústrias e aumento da inflação.
+Em consequência, o presidente Michel Temer resolveu fazer um acordo para que esse bloqueio tivesse fim, então marcou uma reunião com alguns representantes dessa greve e assinou um contrato onde dizia que iam diminuir os preços do diesel, assim como das outras coisas que foram pedidas, tendo em vista a isso, eles saíram das passagens e permitiram a entrada dos transportes nas ruas.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,"[0, 0, 0, 0, 0, 0]","[100, 80, 60, 60, 60, 360]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[100, 80, 60, 60, 60, 360] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 6299,
+        ""candidates_token_count"": 26,
+        ""total_token_count"": 6325
+      }
+    }),
+)"
+5.html,"É de conhecimento geral que a notícia se espalha pelo Brasil inteiro, pois a manifestação está sendo falada em todo o território nacional. Com base nos conhecimentos os caminhoneiros estão reivindicando seus direitos.
+Em consequência disso, vê-se a todo instante reportagens que vem a julgar a manifestação, no entanto, dizem que os caminhoneiros estao causando desordem entre a população, nota-se qeos grevistas não estão apenas manifestando para si, e sim àqueles que não tiveram coragem de sair nas ruas a declarar sua indignação. Em todos os canais há notas de esclarecimento que devido a greve, está faltando remédios em hospitais, doadores, etc. Isso é praticamente um meio de não culpar os governantes e querem pôr culpa nos caminhoneiros.
+Em virtudes dos fatos mencionados, conclui-se que há uma esperança de vida melhor assim que a greve acabar.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,"[0, 0, 0, 0, 0, 0]","[60, 40, 40, 40, 60, 200]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[60, 40, 40, 40, 60, 200] \n\n\n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""NEGLIGIBLE""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 6633,
+        ""candidates_token_count"": 25,
+        ""total_token_count"": 6658
+      }
+    }),
+)"
+9.html,"Ruas vazias, carência de produtos, filas nos postos de combustíveis, temor e incerteza. O roteiro de futuros distópicos foi encenado, recentemente, no Brasil, durante a paralisação dos caminhoneiros. A greve expôs o resultado de sucessivas políticas públicas que priorizaram o transporte rodoviário, tornando a população refém das estradas e do diesel. Afinal, a greve foi uma surpresa ou uma crise anunciada?
+O capitalismo de compadrio, praticado não apenas no Brasil, corresponde à aliança entre o Poder Público e os interesses privados. O lobby das concessionárias automotivas atuou – e atua – fortemente em Brasília, influenciando (ou mandando) no planejamento dos governos. Em nome do “desenvolvimento”, o país escolheu o sistema rodoviário em detrimento do transporte ferroviário e hidroviário. Sob o asfalto, mesmo o esburacado, movimenta-se o Brasil.
+Esse movimento tem um expoente: o caminhoneiro. Ele sente na pele (e no bolso) os impactos dos impostos abusivos, seja nos pedágios, seja nos postos de combustíveis. Como qualquer classe trabalhadora, a carga tributária onera a apertada renda mensal, fazendo com que a base da pirâmide social assista, do acostamento, a muitos enriquecerem com a exploração alheia. Sem dúvida, a greve surgiu como um grito de basta, transbordando toda a frustração acumulada de anos de descaso e incompetência.
+Tal grito veio tarde, mas assustou os incautos. Assustou quem não acreditava que uma classe trabalhadora pudesse exercer seu direito à greve; assustou quem imaginava um povo omisso e resignado. Os grevistas perceberam que tem poder de parar uma nação. Ora, todos os cidadãos podem e devem parar uma nação que trafega rumo ao abismo. Resta a dúvida: qual caminho será trilhado? Quem escolherá a nova rota?
+Certamente, apenas a população consciente poderá responder tais questões. Até então, a rota era guiada por quem sempre se manteve no poder, sucessivos políticos e empresários perpetuadores um Brasil asfaltado e atrasado. A greve dos caminhoneiros deve ser um alerta aos cidadãos de que o poder da mudança reside em suas mãos. Paralisemos o país antes que ele capote.",o-brasil-paralisado-o-que-voce-pensa-sobre-a-greve-dos-caminhoneiros,"[200, 200, 200, 200, 200, 1000]","[160, 120, 100, 140, 140, 660]","response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      ""candidates"": [
+        {
+          ""content"": {
+            ""parts"": [
+              {
+                ""text"": ""[160, 120, 100, 140, 140, 660] \n\n\n""
+              }
+            ],
+            ""role"": ""model""
+          },
+          ""finish_reason"": ""STOP"",
+          ""index"": 0,
+          ""safety_ratings"": [
+            {
+              ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_HARASSMENT"",
+              ""probability"": ""NEGLIGIBLE""
+            },
+            {
+              ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+              ""probability"": ""LOW""
+            }
+          ]
+        }
+      ],
+      ""usage_metadata"": {
+        ""prompt_token_count"": 7285,
+        ""candidates_token_count"": 30,
+        ""total_token_count"": 7315
+      }
+    }),
+)"

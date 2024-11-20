@@ -4,6 +4,7 @@ from utils.experiment_setup import *
 from utils.save_results import *
 from utils.state_control import *
 import gc
+import random
 
 
 def execute_experiment(state, model_identifier, path_to, round_api_key = -1) :
@@ -76,7 +77,7 @@ def execute_experiment(state, model_identifier, path_to, round_api_key = -1) :
 
 def run_experiment(exp, essays_dataset, start, limit, batch, path_to_save, filename_to_save, model_name, chat, state, path_to, dataset_name, model_identifier, round_api_key):
     end = start
-    key_id = 0
+    key_id = random.randint(1, 5)
     for ini in range(start, limit-batch, batch):
         end = ini + batch
         try:
