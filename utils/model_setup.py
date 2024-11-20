@@ -4,7 +4,7 @@ import google.generativeai as genai
 import time
 import ast
 import re
-
+import random
 
 GEMINI_15_FLASH = "gemini-1.5-flash"
 LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
@@ -36,7 +36,11 @@ def choose_model(model_cod = -1):
     print("Choosen Model: " + model_name)
     return model_name, model_cod
 
-def model_setup(model_name, key_id = 1):
+def model_setup(model_name, key_id):
+    print(f"\n\n Setting model {model_name} with API Key {key_id} \n\n")
+    if (key_id == -1) :
+        key_id = random.randint(1, 5)
+    
     if model_name == GEMINI_15_FLASH:
         GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY_' + str(key_id)]
         
@@ -50,7 +54,7 @@ def model_setup(model_name, key_id = 1):
     
     return chat
 
-def run_model(essays_dataset, exp, ini, end, model_name, chat):
+def run_model(essays_dataset, exp, ini, end, model_name, chat, dataset_name):
   essays_outputs = []
 
   for i in range(ini, end):
