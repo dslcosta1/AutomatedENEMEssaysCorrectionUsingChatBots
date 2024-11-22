@@ -4,10 +4,15 @@ Qual o método de avaliação utilizado na correção de redações do ENEM?
 
 Corrija a redação abaixo seguindo o método de avaliação do ENEM. Atribuindo notas quantitativas entre 0 e 200 para cada uma das cinco competências. Forneça uma explicação detalhada que justifique cada nota.
 
-
 Tema:
 """
 <TEMA>
+"""
+
+
+Textos de suporte:
+"""
+<SUPORTE> 
 """
 
 

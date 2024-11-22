@@ -7,7 +7,7 @@ import gc
 import random
 
 
-def execute_experiment(state, model_identifier, path_to, round_api_key = -1) :
+def execute_experiment(state, model_identifier, path_to, round_api_key = -1, excution_beggining = 0) :
     path_to_experiments = "./experiments/"
     """
     Setup Model
@@ -68,7 +68,7 @@ def execute_experiment(state, model_identifier, path_to, round_api_key = -1) :
         Change to new experiment
         '''
         new_state = {
-            'Execucao': 0,
+            'Execucao': excution_beggining,
             'Experimento': state['Experimento'] + 1,
             'Batch': 0
         }
@@ -80,6 +80,9 @@ def run_experiment(exp, essays_dataset, start, limit, batch, path_to_save, filen
     key_id = random.randint(1, 5)
     for ini in range(start, limit-batch, batch):
         end = ini + batch
+        del chat
+        gc.collect()
+        chat = model_setup(model_name, key_id%5 + 1)
         try:
             essays_outputs = run_model(essays_dataset, exp, ini, end, model_name, chat, dataset_name)
             if (round_api_key == -1):
@@ -89,7 +92,7 @@ def run_experiment(exp, essays_dataset, start, limit, batch, path_to_save, filen
                 chat = model_setup(model_name, key_id%5 + 1)
         except Exception as e:
             print(f"There was an exception on run_experiment!!: {e}")
-            time.sleep(180)
+            time.sleep(1)
             key_id += 1
             del chat
             gc.collect()

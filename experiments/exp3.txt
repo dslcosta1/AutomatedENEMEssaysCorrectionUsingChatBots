@@ -6,6 +6,12 @@ Tema:
 """
 
 
+Textos de suporte:
+"""
+<SUPORTE> 
+"""
+
+
 Redação:
 """
 <REDAÇÃO>

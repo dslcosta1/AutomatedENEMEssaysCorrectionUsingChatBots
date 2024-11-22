@@ -11,7 +11,7 @@ LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
 
 SLEEP_TIME = {}
 SLEEP_TIME[GEMINI_15_FLASH] = 0
-SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 2
+SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 15
 
 def choose_model(model_cod = -1):
 
@@ -42,15 +42,35 @@ def model_setup(model_name, key_id):
         key_id = random.randint(1, 5)
     
     if model_name == GEMINI_15_FLASH:
-        GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY_' + str(key_id)]
-        
+        google_api_id = 'GOOGLE_API_KEY'
+        try:
+            # Used to securely store your API key
+            from google.colab import userdata
+    
+            # Or use `os.getenv('API_KEY')` to fetch an environment variable.
+            GOOGLE_API_KEY=userdata.get(google_api_id)
+        except Exception as e:
+            import os
+            GOOGLE_API_KEY = os.environ[google_api_id]
+                
         genai.configure(api_key=GOOGLE_API_KEY)
         
         model = genai.GenerativeModel(model_name=GEMINI_15_FLASH)
         print(model)
         chat = model.start_chat(enable_automatic_function_calling=True)
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
-        chat = Groq(api_key=os.environ.get("GROQ_API_KEY_" + str(key_id)))
+        groq_api_id = 'GROQ_API_KEY'
+        try:
+            # Used to securely store your API key
+            from google.colab import userdata
+    
+            # Or use `os.getenv('API_KEY')` to fetch an environment variable.
+            GROQ_API_KEY=userdata.get(groq_api_id)
+        except Exception as e:
+            import os
+            GROQ_API_KEY = os.environ[groq_api_id]
+        
+        chat = Groq(api_key=GROQ_API_KEY)
     
     return chat
 
@@ -73,8 +93,9 @@ def run_model(essays_dataset, exp, ini, end, model_name, chat, dataset_name):
     essay_data = essays_dataset[i]
     essay = essay_data["essay_text"]
     prompt = essay_data["id_prompt"].replace("-", " ")
+    supporting_text = essay_data["supporting_text"]
     print("It will evaluated essay with number:" + str(i))
-    prompt = exp.build_prompt(essay, prompt)
+    prompt = exp.build_prompt(essay, prompt, supporting_text)
     grades, response = made_question(model_name, chat, prompt)
 
     print("Evaluated essay with number: " + str(i))
@@ -112,6 +133,7 @@ def made_question(model_name, chat, prompt):
         
         match = re.search(pattern, response)
         while not match:
+            print(f"There was not a match!!")
             prompt = prompt_divided[-1]
             time.sleep(sleep_time) 
             print(response)
@@ -122,7 +144,7 @@ def made_question(model_name, chat, prompt):
     except Exception as e:
         print(f"There was an exception on made question: {e}")
         for prompt in prompt_divided:
-            time.sleep(120)
+            time.sleep(10)
             full_response, response = make_especific_model_question(model_name, chat, prompt)
 
         match = re.search(pattern, response)
@@ -142,7 +164,7 @@ def make_especific_model_question(model_name, chat, prompt):
         response = full_response.text
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
         completion = chat.chat.completions.create(
-            model=LLAMA_32_90B_TEXT_PREVIEW,
+            model="llama-3.1-70b-versatile",
             messages=[{
                 "role": "user",
                 "content": prompt

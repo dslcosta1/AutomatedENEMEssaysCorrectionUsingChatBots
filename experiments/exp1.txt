@@ -1,4 +1,5 @@
-Corrija a seguinte redação, seguindo o método de avaliação do ENEM, entregue apenas a nota quantitativa entre 0 e 200 para cada competência e a nota final no seguinte formato: [x, y, z, w, t, x+y+z+w+t]. Não quero texto na resposta, apenas as notas numéricas para cada competência e o total 
+Corrija a seguinte redação, seguindo o método de avaliação do ENEM, entregue apenas a nota quantitativa entre 0 e 200 para cada competência e a nota final no seguinte formato: [x, y, z, w, t, x+y+z+w+t]. Não quero texto na resposta, apenas as notas numéricas para cada competência e o total.
 
-Tema:<TEMA> 
+Tema: <TEMA> 
+Textos de suporte: <SUPORTE> 
 Redação: <REDAÇÃO>

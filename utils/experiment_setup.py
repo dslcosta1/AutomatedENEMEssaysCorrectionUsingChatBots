@@ -55,8 +55,8 @@ class Experimento:
     print("Create " + experiment_name)
     print("Prompt template: \n" + self.prompt_template)
 
-  def build_prompt(self, essay, prompt):
-    filled_prompt = self.prompt_template.replace('<TEMA>', prompt).replace('<REDAÇÃO>', essay)
+  def build_prompt(self, essay, prompt, supporting_text):
+    filled_prompt = self.prompt_template.replace('<TEMA>', prompt).replace('<SUPORTE>', supporting_text).replace('<REDAÇÃO>', essay)
     return filled_prompt
 
 def read_experiment_prompt(path_to_experiment_prompts, experiment_name):
