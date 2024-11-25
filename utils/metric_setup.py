@@ -84,8 +84,8 @@ def calculate_qwk(nota_original, nota_model):
 def calculate_rmse(nota_original, nota_model):
     results = []
     for indice in range(0, 5):
-        y = np.array(pegar_nota(nota_original, indice))
-        y_hat = np.array(pegar_nota(nota_model, indice))
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
         
         # Calculate the squared differences
         squared_diff = (y - y_hat) ** 2
@@ -106,8 +106,8 @@ def calculate_rmse(nota_original, nota_model):
 def calculate_mae(nota_original, nota_model):
     results = []
     for indice in range(0, 5):
-        y = np.array(pegar_nota(nota_original, indice))
-        y_hat = np.array(pegar_nota(nota_model, indice))
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
         
         # Calculate the absolute differences
         absolute_diff = np.abs(y - y_hat)

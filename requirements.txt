@@ -5,4 +5,5 @@ pandas
 numpy
 random
 AST
-\scikit-learn
+scikit-learn
+llamaapi

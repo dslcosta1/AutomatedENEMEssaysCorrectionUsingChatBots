@@ -1,4 +1,5 @@
 from groq import Groq
+from llamaapi import LlamaAPI
 import os
 import google.generativeai as genai
 import time
@@ -59,6 +60,8 @@ def model_setup(model_name, key_id):
         print(model)
         chat = model.start_chat(enable_automatic_function_calling=True)
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
+
+        
         groq_api_id = 'GROQ_API_KEY'
         try:
             # Used to securely store your API key
@@ -71,6 +74,21 @@ def model_setup(model_name, key_id):
             GROQ_API_KEY = os.environ[groq_api_id]
         
         chat = Groq(api_key=GROQ_API_KEY)
+        """
+
+        llama_api_id = 'LLAMA_API_KEY'
+        try:
+            # Used to securely store your API key
+            from google.colab import userdata
+    
+            # Or use `os.getenv('API_KEY')` to fetch an environment variable.
+            LLAMA_API_KEY=userdata.get(llama_api_id)
+        except Exception as e:
+            import os
+            LLAMA_API_KEY = os.environ[llama_api_id]
+        
+        chat = LlamaAPI(LLAMA_API_KEY)
+        """
     
     return chat
 
@@ -125,32 +143,38 @@ def made_question(model_name, chat, prompt):
     reponse = ""
     sleep_time = SLEEP_TIME[model_name]
     pattern = r"(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)\D{0,3}(\d+)"
-
+    prompt_history = ""
+    
     try:
         for prompt in prompt_divided:
+            prompt_history += prompt
             time.sleep(sleep_time) # API Limit - no more that 60 requests per minute
-            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            full_response, response = make_especific_model_question(model_name, chat, prompt_history)
+            prompt_history += "\n\n" + response + "\n\n"
         
         match = re.search(pattern, response)
         while not match:
             print(f"There was not a match!!")
-            prompt = prompt_divided[-1]
+            prompt = prompt_history
             time.sleep(sleep_time) 
             print(response)
-            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            full_response, response = make_especific_model_question(model_name, chat, prompt_history)
             match = re.search(pattern, response)
         
         grades = str(list(map(int, match.groups())))
     except Exception as e:
         print(f"There was an exception on made question: {e}")
+        prompt_history = ""
         for prompt in prompt_divided:
             time.sleep(10)
-            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            prompt_history += prompt
+            full_response, response = make_especific_model_question(model_name, chat, prompt_history)
+            prompt_history += "\n\n" + response + "\n\n"
 
         match = re.search(pattern, response)
         while not match:
             print(response)
-            full_response, response = make_especific_model_question(model_name, chat, prompt)
+            full_response, response = make_especific_model_question(model_name, chat, prompt_history)
             match = re.search(pattern, response)
         grades = str(list(map(int, match.groups())))
     
@@ -163,6 +187,7 @@ def make_especific_model_question(model_name, chat, prompt):
         full_response = chat.send_message(prompt)
         response = full_response.text
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
+        
         completion = chat.chat.completions.create(
             model="llama-3.1-70b-versatile",
             messages=[{
@@ -174,5 +199,18 @@ def make_especific_model_question(model_name, chat, prompt):
         full_response_obj = completion.choices[0].message
         response = full_response_obj.content
         full_response = str(full_response_obj)
-
+        """
+        # Build the API request
+        api_request_json = {
+            "model": "llama3.1-70b",
+            "messages": [
+                {"role": "user", 
+                 "content": prompt},
+            ],
+        }
+        
+        # Execute the Request
+        full_response = chat.run(api_request_json)
+        response = full_response.json()['choices'][0]['message']['content']
+        """
     return full_response, response
