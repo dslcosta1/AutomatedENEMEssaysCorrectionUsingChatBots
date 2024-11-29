@@ -111,24 +111,6 @@ def getDataset(path_to, dataset_name):
     case "extended_complete":
       essays_data = []
 
-      filepath = path_to + "Datasets/propor2024/train.csv"
-      with open(filepath, mode ='r') as file:
-            csvFile = csv.DictReader(file)
-            for lines in csvFile:
-                essays_data.append(lines)
-
-      filepath = path_to + "Datasets/propor2024/test.csv"
-      with open(filepath, mode ='r') as file:
-            csvFile = csv.DictReader(file)
-            for lines in csvFile:
-                essays_data.append(lines)
-
-      filepath = path_to + "Datasets/propor2024/validation.csv"
-      with open(filepath, mode ='r') as file:
-            csvFile = csv.DictReader(file)
-            for lines in csvFile:
-                essays_data.append(lines)
-
       filepath = path_to + "Datasets/fullGradeEnemEssays2024/train.csv"
       with open(filepath, mode ='r') as file:
             csvFile = csv.DictReader(file)

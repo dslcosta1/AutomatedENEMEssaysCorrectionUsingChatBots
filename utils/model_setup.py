@@ -12,7 +12,7 @@ LLAMA_32_90B_TEXT_PREVIEW = "llama-3.2-90b-text-preview"
 
 SLEEP_TIME = {}
 SLEEP_TIME[GEMINI_15_FLASH] = 0
-SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 15
+SLEEP_TIME[LLAMA_32_90B_TEXT_PREVIEW] = 2
 
 def choose_model(model_cod = -1):
 
@@ -61,7 +61,7 @@ def model_setup(model_name, key_id):
         chat = model.start_chat(enable_automatic_function_calling=True)
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
 
-        
+        """
         groq_api_id = 'GROQ_API_KEY'
         try:
             # Used to securely store your API key
@@ -88,7 +88,7 @@ def model_setup(model_name, key_id):
             LLAMA_API_KEY = os.environ[llama_api_id]
         
         chat = LlamaAPI(LLAMA_API_KEY)
-        """
+        
     
     return chat
 
@@ -187,7 +187,7 @@ def make_especific_model_question(model_name, chat, prompt):
         full_response = chat.send_message(prompt)
         response = full_response.text
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
-        
+        """
         completion = chat.chat.completions.create(
             model="llama-3.1-70b-versatile",
             messages=[{
@@ -212,5 +212,5 @@ def make_especific_model_question(model_name, chat, prompt):
         # Execute the Request
         full_response = chat.run(api_request_json)
         response = full_response.json()['choices'][0]['message']['content']
-        """
+        
     return full_response, response

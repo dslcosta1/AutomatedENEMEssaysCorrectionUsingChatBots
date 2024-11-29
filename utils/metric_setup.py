@@ -1,18 +1,22 @@
 import re
 import numpy as np
 from sklearn.metrics import cohen_kappa_score
-
+from sklearn.metrics import r2_score
+from sklearn.metrics import accuracy_score
+from scipy.stats import spearmanr
 
 QWK = "QWK"
 RMSE = "RMSE"
 MAE = "MAE"
+R2 = "R2"
 
 def choose_metric():
     print("ATENCAO - Escolha a metrica:")
     print("1 - " + QWK)
     print("2 - " + RMSE)
     print("3 - " + MAE)
-    print("4 - other")
+    print("4 - " + R2)
+    print("6 - other")
     metric_cod = int(input("Coloque o número do modelo que gostaria de executar: "))
     metric_name = ""
     
@@ -23,6 +27,8 @@ def choose_metric():
             metric_name = RMSE
         case 3:
             metric_name = MAE
+        case 4:
+            metric_name = R2
         case _:
             print("Métrica inválida, escolha um novo:")
             choose_metric()
@@ -95,11 +101,21 @@ def calculate_rmse(nota_original, nota_model):
         
         # Take the square root of the mean squared difference
         rmse = np.sqrt(mean_squared_diff)
-        
-        print(f"RMSE: {rmse}")
-        
+                
         results.append(rmse)
     
+    return results
+
+def calculate_abs_diff(nota_original, nota_model):
+    results = []
+    for indice in range(0, 5):
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
+        
+        # Calculate the absolute differences
+        absolute_diff = np.abs(y - y_hat)
+
+        results.append(absolute_diff)
     return results
 
 
@@ -114,9 +130,96 @@ def calculate_mae(nota_original, nota_model):
         
         # Compute the mean of absolute differences
         mae = np.mean(absolute_diff)
-        
-        print(f"MAE: {mae}")
-        
+                
         results.append(mae)
     
+    return results
+
+def calculate_r2(nota_original, nota_model):
+    results = []
+    for indice in range(0, 5):
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
+        
+        # Calculate R² score
+        r2 = r2_score(y, y_hat)
+                
+        results.append(r2)
+    
+    return results
+
+def calculate_spearmanr(nota_original, nota_model):
+    results = []
+    for indice in range(0, 5):
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
+        
+        # Calculate Spearman Rank Correlation Coefficient
+        coef, p_value = spearmanr(y, y_hat)
+                
+        results.append(coef)
+        
+    return results
+
+def calculate_mape(nota_original, nota_model):
+    results = []
+    for indice in range(0, 5):
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
+        
+        # Avoid division by zero by replacing zeros with a very small number
+        y = np.where(y == 0, np.finfo(float).eps, y)
+        
+        # Calculate the absolute percentage differences
+        percentage_diff = np.abs((y - y_hat) / y)
+        
+        # Compute the mean of percentage differences
+        mape = np.mean(percentage_diff) * 100  # Convert to percentage
+                
+        results.append(mape)
+    
+    return results
+
+def calculate_pia(nota_original, nota_model, tolerancia=80):
+    """
+    Calcula a Precisão do Intervalo Absoluto (PIA) para cada conjunto de notas.
+
+    Args:
+        nota_original: Notas verdadeiras.
+        nota_model: Notas preditas pelo modelo.
+        tolerancia: Intervalo de tolerância para considerar a predição como precisa.
+
+    Returns:
+        Lista de valores PIA para cada conjunto de notas.
+    """
+    results = []
+    for indice in range(0, 5):
+        y = np.array(pegar_nota(nota_original, indice, True))
+        y_hat = np.array(pegar_nota(nota_model, indice, True))
+        
+        # Calculate the absolute differences
+        absolute_diff = np.abs(y - y_hat)
+        
+        # Count how many predictions fall within the tolerance
+        accurate_count = np.sum(absolute_diff <= tolerancia)
+        
+        # Calculate the percentage of accurate predictions
+        pia = accurate_count / len(y) * 100
+                
+        results.append(pia)
+    
+    return results
+
+
+def calculate_accuracy(nota_original, nota_model):
+    results = []
+    for indice in range(0, 5):
+        y = pegar_nota(nota_original, indice, True)
+        y_hat = pegar_nota(nota_model, indice, True)
+        
+        # Calculate accuracy
+        accuracy = accuracy_score(y, y_hat)
+        
+        results.append(accuracy)
+        
     return results
