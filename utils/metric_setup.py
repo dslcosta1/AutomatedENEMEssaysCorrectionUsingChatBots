@@ -69,7 +69,14 @@ def get_grades(dataset, model_name):
             clean_original = re.sub(r'\s+', ' ', original)
             remove_brackets = clean_original.replace('[ ', '[').replace(' ]', ']').replace(' ', ', ').replace('(', '[').replace(')', ']')
             o = eval(remove_brackets)
-        g = eval(gemini)
+
+        try:
+            g = eval(gemini)
+        except:
+            clean_original = re.sub(r'\s+', ' ', gemini)
+            remove_brackets = clean_original.replace('[ ', '[').replace(' ]', ']').replace(' ', ', ').replace('(', '[').replace(')', ']')
+            g = eval(remove_brackets)
+        
         nota_original.append(o)
         nota_gemini.append(g)
     

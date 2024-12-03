@@ -4,6 +4,7 @@ EXPERIMENT_3 = "exp3"
 EXPERIMENT_4 = "exp4"
 EXPERIMENT_5 = "exp5"
 EXPERIMENT_6 = "exp6"
+EXPERIMENT_7 = "exp7"
 
 
 def choose_experiment(experiment_cod = -1):
@@ -16,7 +17,8 @@ def choose_experiment(experiment_cod = -1):
     print("4 - " + "experimento4")
     print("5 - " + "experimento5")
     print("6 - " + "experimento6")
-    print("7 - Outro")
+    print("7 - " + "experimento7")
+    print("8 - Outro")
     experiment_cod = int(input("Coloque o número do experimento que gostaria de executar: "))
 
   experiment_name = ""
@@ -34,6 +36,8 @@ def choose_experiment(experiment_cod = -1):
       experiment_name = EXPERIMENT_5
     case 6:
       experiment_name = EXPERIMENT_6
+    case 7:
+      experiment_name = EXPERIMENT_7
     case _:
       print("Valor invalido do experimento")
       setup_experiment()

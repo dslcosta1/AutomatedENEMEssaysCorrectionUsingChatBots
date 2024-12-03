@@ -60,7 +60,6 @@ def model_setup(model_name, key_id):
         print(model)
         chat = model.start_chat(enable_automatic_function_calling=True)
     elif model_name == LLAMA_32_90B_TEXT_PREVIEW:
-
         """
         groq_api_id = 'GROQ_API_KEY'
         try:
@@ -87,8 +86,7 @@ def model_setup(model_name, key_id):
             import os
             LLAMA_API_KEY = os.environ[llama_api_id]
         
-        chat = LlamaAPI(LLAMA_API_KEY)
-        
+        chat = LlamaAPI(LLAMA_API_KEY)      
     
     return chat
 
@@ -212,5 +210,5 @@ def make_especific_model_question(model_name, chat, prompt):
         # Execute the Request
         full_response = chat.run(api_request_json)
         response = full_response.json()['choices'][0]['message']['content']
-        
+
     return full_response, response
