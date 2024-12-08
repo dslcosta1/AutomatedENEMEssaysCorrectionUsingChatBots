@@ -49,7 +49,7 @@ def execute_experiment(state, model_identifier, path_to, round_api_key = -1, exc
             path_to_save = create_experiment_folder(path_to, model_name, experiment_name, dataset_name)
             filename_to_save = build_filename_to_save(model_name, experiment_name, dataset_name, str(state['Execucao']))
             
-            batch = 10
+            batch = 2
             limit = len(essays_dataset)
             
             run_experiment(exp, essays_dataset, start, limit, batch, path_to_save, filename_to_save, model_name, chat, state, path_to, dataset_name, model_identifier, round_api_key)

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TCC - Avaliação de Modelos LLaMA e Gemini</title>
+  <style>
+    /* Estilos Gerais */
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      overflow-x: hidden;
+    }
+
+    /* Plano de fundo translúcido */
+    body::before {
+      content: "";
+      background-image: url("img/background.webp");
+      /* Caminho da sua imagem */
+      background-size: cover;
+      /* A imagem cobre toda a tela */
+      background-position: center;
+      /* Centraliza a imagem */
+      position: fixed;
+      /* Fixa a imagem no fundo */
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      /* Mantém a imagem atrás de todo o conteúdo */
+      opacity: 0.1;
+      /* Define a transparência da imagem (0.0 a 1.0) */
+    }
+
+    .container {
+      max-width: 90%;
+      /* Garante que o conteúdo não extrapole */
+      padding: 20px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      /* Tamanho responsivo do título */
+      margin-bottom: 20px;
+      color: #333;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      line-height: 1.2;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 20px;
+      color: #333;
+    }
+
+    p {
+      margin: 15px 0;
+      color: #555;
+      line-height: 1.5;
+    }
+
+    /* Botões */
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin: 20px 0;
+    }
+
+    .button {
+      border: 2px solid transparent;
+      border-radius: 5px;
+      padding: 12px 24px;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .button.proposta {
+      background-color: #d6ce8b;
+      border-color: #d6ce8b;
+    }
+
+    .button.proposta:hover {
+      background-color: white;
+      color: #d6ce8b;
+    }
+
+    .button.tcc {
+      background-color: #02907d;
+      border-color: #02907d;
+    }
+
+    .button.tcc:hover {
+      background-color: white;
+      color: #02907d;
+    }
+
+    .button.git {
+      background-color: #8fd053ff;
+      border-color: #8fd053ff;
+    }
+
+    .button.git:hover {
+      background-color: white;
+      color: #8fd053ff;
+    }
+
+    .button.dataset {
+      background-color: #03453d;
+      border-color: #03453d;
+    }
+
+    .button.dataset:hover {
+      background-color: white;
+      color: #03453d;
+    }
+
+    .button.poster {
+      background-color: #ffd700;
+      border-color: #ffd700;
+    }
+
+    .button.poster:hover {
+      background-color: white;
+      color: #ffd700;
+    }
+
+    .button.apresentacao {
+      background-color: #622504;
+      border-color: #622504;
+    }
+
+    .button.apresentacao:hover {
+      background-color: white;
+      color: #622504;
+    }
+
+    /* Carrossel */
+    .carousel {
+      width: 30%;
+      /* Carrossel ocupa 30% da largura */
+      max-width: 300px;
+      /* Largura máxima */
+      height: 300px;
+      /* Altura fixa */
+      margin: 20px auto;
+      overflow: hidden;
+      border-radius: 10px;
+      position: relative;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .carousel-images {
+      display: flex;
+      animation: slide 40s infinite;
+      height: 100%;
+    }
+
+    .carousel-images img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      /* Garante que a imagem inteira seja visível */
+      background-color: #f4f4f4;
+      /* Fundo cinza para contraste */
+    }
+
+    @keyframes slide {
+
+      0%,
+      5% {
+        transform: translateX(0);
+      }
+
+      10% {
+        transform: translateX(-100%);
+      }
+
+      15% {
+        transform: translateX(-200%);
+      }
+
+      20% {
+        transform: translateX(-300%);
+      }
+
+      25% {
+        transform: translateX(-400%);
+      }
+
+      30% {
+        transform: translateX(-500%);
+      }
+
+      35% {
+        transform: translateX(-600%);
+      }
+
+      40% {
+        transform: translateX(-700%);
+      }
+
+      45% {
+        transform: translateX(-800%);
+      }
+
+      50% {
+        transform: translateX(-900%);
+      }
+
+      55% {
+        transform: translateX(-1000%);
+      }
+
+      60% {
+        transform: translateX(-1100%);
+      }
+
+      65% {
+        transform: translateX(-1200%);
+      }
+
+      70% {
+        transform: translateX(-1300%);
+      }
+
+      75% {
+        transform: translateX(-1400%);
+      }
+
+      80% {
+        transform: translateX(-1500%);
+      }
+
+      85% {
+        transform: translateX(-1600%);
+      }
+
+      90% {
+        transform: translateX(-1700%);
+      }
+
+      95% {
+        transform: translateX(-1800%);
+      }
+
+      100% {
+        transform: translateX(-1900%);
+      }
+    }
+
+    /* Barra da Disciplina */
+    .barra-disciplina {
+      width: 100%;
+      /* Ocupa toda a largura */
+      background-color: #8fd053;
+      /* Fundo */
+      color: #03453d;
+      /* Cor do texto */
+      padding: 20px 0;
+      /* Espaçamento vertical */
+      font-size: 2rem;
+      /* Tamanho do texto */
+      font-weight: bold;
+      text-align: center;
+      /* Centraliza o texto */
+      margin-bottom: 20px;
+      /* Espaço abaixo da barra */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <!-- Barra com o nome da disciplina -->
+    <div class="barra-disciplina">
+      MAC0499 - Trabalho de Formatura Supervisionado
+    </div>
+    <h1>Avaliação do Desempenho de Modelos LLaMA e Gemini na Correção de Redações do ENEM</h1>
+
+    <!-- Botões -->
+    <div class="button-container">
+      <a href="resources/proposta.pdf" class="button proposta" target="_blank">Proposta</a>
+      <a href="resources/tese.pdf" class="button tcc" target="_blank">Tese</a>
+      <a href="https://github.com/dslcosta1/AutomatedENEMEssaysCorrectionUsingChatBots" class="button git"
+        target="_blank">Repositório Git</a>
+      <a href="https://github.com/dslcosta1/EssaysENEM1000GradeDataset" class="button dataset"
+        target="_blank">Dataset</a>
+      <a href="resources/poster.pdf" class="button poster" target="_blank">Pôster</a>
+      <a href="resources/apresentacao.pdf" class="button apresentacao" target="_blank">Apresentação</a>
+    </div>
+
+    <!-- Carrossel de Imagens -->
+    <div class="carousel">
+      <div class="carousel-images">
+        <img src="img/img8.webp" alt="Imagem 8"> <!-- 1 -->
+        <img src="img/img1.webp" alt="Imagem 1"> <!-- 2 -->
+        <img src="img/img12.webp" alt="Imagem 12"> <!-- 3 -->
+        <img src="img/img2.webp" alt="Imagem 2"> <!-- 4 -->
+        <img src="img/img3.webp" alt="Imagem 3"> <!-- 5 -->
+        <img src="img/img7.webp" alt="Imagem 7"> <!-- 6 -->
+        <img src="img/img13.webp" alt="Imagem 13"> <!-- 7 -->
+        <img src="img/img4.webp" alt="Imagem 4"> <!-- 8 -->
+        <img src="img/img9.webp" alt="Imagem 9"> <!-- 9 -->
+        <img src="img/img5.webp" alt="Imagem 5"> <!-- 10 -->
+        <img src="img/img11(1).webp" alt="Imagem 11"> <!-- 11 -->
+        <img src="img/img6.webp" alt="Imagem 6"> <!-- 12 -->
+        <img src="img/img11.webp" alt="Imagem 17"> <!-- 13 -->
+        <img src="img/img14.webp" alt="Imagem 14"> <!-- 14 -->
+        <img src="img/img1.webp" alt="Imagem 1"> <!-- 16 -->
+        <img src="img/img12.webp" alt="Imagem 12"> <!-- 17 -->
+        <img src="img/img2.webp" alt="Imagem 2"> <!-- 18 -->
+        <img src="img/img3.webp" alt="Imagem 3"> <!-- 19 -->
+        <img src="img/img7.webp" alt="Imagem 7"> <!-- 20 -->
+        <img src="img/img8.webp" alt="Imagem 8"> <!-- 15 -->
+      </div>
+    </div>
+
+    <p><strong>Aluno:</strong> Daniel Silva Lopes da Costa. <strong>NUSP:</strong> 11302720</p>
+    <p><strong>Orientador:</strong> Msc. Igor Cataneo Silveira</p>
+    <p><strong>Orientador:</strong> Prof. Dr. Denis Deratani Mauá</p>
+
+
+
+    <!-- Resumo -->
+    <h2>Resumo</h2>
+    <p>
+      Este trabalho avalia o desempenho dos modelos de linguagem LLaMA e Gemini na tarefa de correção
+      automática de redações do ENEM, focando na atribuição de notas para as cinco competências exigidas. A
+      análise foi estruturada em duas fases principais: a exploração de diferentes padrões de prompts e a utilização
+      dos modelos como insumos para algoritmos supervisionados de aprendizado de máquina.
+    </p>
+    <p>
+      Os resultados indicaram que ajustes no formato dos prompts, especialmente os padrões contextualizados
+      e em cadeias de pensamento, podem melhorar significativamente a precisão e a consistência das respostas
+      geradas pelos modelos. Além disso, as saídas desses modelos, combinadas com métricas derivadas por
+      ferramentas como o NILC-Metrix, mostraram-se relevantes para a construção de modelos supervisionados
+      mais robustos.
+    </p>
+    <p>
+      O trabalho também introduz um dataset estendido, com a inclusão de redações nota mil, para mitigar
+      desequilíbrios nas distribuições de notas e enriquecer a base de dados disponível para a pesquisa. Apesar dos
+      avanços, desafios como a escassez de redações com notas muito baixas e a necessidade de maior transparência
+      nos modelos utilizados permanecem.
+    </p>
+    <p>
+      Contribuindo para o desenvolvimento de ferramentas mais eficientes e acessíveis, este estudo reforça
+      o potencial dos grandes modelos de linguagem na transformação da avaliação educacional, apontando
+      caminhos para pesquisas futuras em técnicas de aprendizado por reforço, engenharia de prompts e uso de
+      dados multimodais.
+    </p>
+  </div>
+</body>
+
+</html>
